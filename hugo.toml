@@ -3,12 +3,13 @@ languageCode = 'en-us'
 title = 'movioto'
 theme = 'PaperMod'
 
+
 [params]
+    ShowReadingTime = true
+    ShowPostNavLinks = true
     [params.homeInfoParams]
         Title = "Hello Stranger"
         Content = "Welcome to weird movie reviews"
-    ShowReadingTime = true
-    ShowPostNavLinks = true
 
 [[menu.main]]
   identifier = "categories"
