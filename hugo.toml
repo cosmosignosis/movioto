@@ -36,4 +36,10 @@ theme = 'PaperMod'
   url = "/about us/"
   weight = 40
 
+   [[menu.main]]
+  identifier = "Community"
+  name = "community"
+  url = "/community/"
+  weight = 50
+
 
