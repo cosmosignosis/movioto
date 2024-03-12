@@ -30,4 +30,10 @@ theme = 'PaperMod'
   url = "/archives/"
   weight = 30
 
+  [[menu.main]]
+  identifier = "about us"
+  name = "about us"
+  url = "/about us/"
+  weight = 40
+
 
