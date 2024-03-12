@@ -11,30 +11,30 @@ theme = 'PaperMod'
         Title = "Your favorite Sci-Fi Film?"
         Content = "Well, let's talk about it!"
 
-[[menu.main]]
-  identifier = "categories"
-  name = "Categories"
-  url = "/categories/"
-  weight = 10
+# [[menu.main]]
+#   identifier = "categories"
+#   name = "Categories"
+#   url = "/categories/"
+#   weight = 10
 
-[[menu.main]]
-  identifier = "tags"
-  name = "Tags"
-  url = "/tags/"
-  weight = 20
+# [[menu.main]]
+#   identifier = "tags"
+#   name = "Tags"
+#   url = "/tags/"
+#   weight = 20
 
 
-[[menu.main]]
-  identifier = "archives"
-  name = "Archives"
-  url = "/archives/"
-  weight = 30
+# [[menu.main]]
+#   identifier = "archives"
+#   name = "Archives"
+#   url = "/archives/"
+#   weight = 30
 
-  [[menu.main]]
-  identifier = "about us"
-  name = "about us"
-  url = "/about us/"
-  weight = 40
+#   [[menu.main]]
+#   identifier = "about us"
+#   name = "about us"
+#   url = "/about us/"
+#   weight = 40
 
    [[menu.main]]
   identifier = "Community"
