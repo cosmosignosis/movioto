@@ -9,7 +9,7 @@ theme = 'PaperMod'
     ShowPostNavLinks = true
     [params.homeInfoParams]
         Title = "Your favorite Sci-Fi Film?"
-        Content = "Well, let's talk about it!"
+        Content = "Well, let's talk about it!!"
     [assets]
       favicon = '/favicon.ico'
 
