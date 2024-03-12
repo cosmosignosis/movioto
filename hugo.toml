@@ -31,9 +31,9 @@ theme = 'PaperMod'
 #   weight = 30
 
   [[menu.main]]
-  identifier = "about us"
-  name = "about us"
-  url = "/about us/"
+  identifier = "About"
+  name = "About"
+  url = "/about/"
   weight = 10
 
    [[menu.main]]
