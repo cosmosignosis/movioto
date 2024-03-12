@@ -2,7 +2,7 @@ baseURL = 'https://admirable-gecko-865550.netlify.app/'
 languageCode = 'en-us'
 title = 'Scientic Space'
 theme = 'PaperMod'
-
+favicon = 'assets /favicon.ico'
 
 [params]
     ShowReadingTime = true
@@ -11,8 +11,9 @@ theme = 'PaperMod'
         Title = "Your favorite Sci-Fi Film?"
         Content = "Well, let's talk about it!!"
     [assets]
-      disableHLJS= true 
-      favicon = 'assets /favicon.ico'
+      favicon16x16= '/assets/favicon-16x16.png'
+      favicon32x32= '/assets/favicon-32x32.png'
+      apple_touch_icon= '/assets/apple-touch-icon.png'
 
 # [[menu.main]]
 #   identifier = "categories"
