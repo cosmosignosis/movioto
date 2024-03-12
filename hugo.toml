@@ -8,8 +8,8 @@ theme = 'PaperMod'
     ShowReadingTime = true
     ShowPostNavLinks = true
     [params.homeInfoParams]
-        Title = "Hello Stranger"
-        Content = "Welcome to weird movie reviews"
+        Title = "Your favorite Sci-Fi Film?"
+        Content = "Well, let's talk about it!"
 
 [[menu.main]]
   identifier = "categories"
