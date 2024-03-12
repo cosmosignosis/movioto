@@ -30,16 +30,16 @@ theme = 'PaperMod'
 #   url = "/archives/"
 #   weight = 30
 
-#   [[menu.main]]
-#   identifier = "about us"
-#   name = "about us"
-#   url = "/about us/"
-#   weight = 40
+  [[menu.main]]
+  identifier = "about us"
+  name = "about us"
+  url = "/about us/"
+  weight = 10
 
    [[menu.main]]
   identifier = "Community"
   name = "Community"
   url = "/community/"
-  weight = 10
+  weight = 20
 
 
