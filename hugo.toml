@@ -12,9 +12,11 @@ favicon = 'assets /favicon.ico'
         Content = "Well, let's talk about it!!!--"
     
 [assets]
-    favicon16x16= '/assets/favicon-16x16.png'
-    favicon32x32= '/assets/favicon-32x32.png'
-    apple_touch_icon= '/assets/apple-touch-icon.png'
+    favicon16x16 = '/assets/favicon-16x16.png'
+    favicon32x32 = '/assets/favicon-32x32.png'
+    apple_touch_icon = '/assets/apple-touch-icon.png'
+    android_chrome512x512 = '/assets/android-chrome-512x512'
+    android_chrome192x192 = '/assets/android-chrome-192x192'
 
 # [[menu.main]]
 #   identifier = "categories"
