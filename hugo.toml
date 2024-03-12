@@ -11,6 +11,7 @@ theme = 'PaperMod'
         Title = "Your favorite Sci-Fi Film?"
         Content = "Well, let's talk about it!!"
     [assets]
+      disableHLJS= true 
       favicon = 'assets /favicon.ico'
 
 # [[menu.main]]
