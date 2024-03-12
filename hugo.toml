@@ -40,6 +40,6 @@ theme = 'PaperMod'
   identifier = "Community"
   name = "Community"
   url = "/community/"
-  weight = 50
+  weight = 10
 
 
