@@ -20,22 +20,21 @@ url = "https://discord.gg/DQrrG9uv" -->
     A community to discuss the mini series
 
     [JOIN THIS COMMUNITY](https://discord.gg/jwbJTtps)
-&nbsp  
+<p>&nbsp;</p>
 
 - **Dune**  
 
     Connect with other fans of the sci-fi classic Dune  
 
     [JOIN THIS COMMUNITY](https://discord.gg/rsTKywNZ)
-&nbsp       
+<p>&nbsp;</p>  
+
 - **Star Wars Meme Empire**  
 
     If you like Star Wars and memes then this community is for you  
 
     [JOIN THIS COMMUNITY](https://discord.gg/BRJBZR4T)
-    
-      
-      
+<p>&nbsp;</p>    
 - **Futurama**  
 
     The go-to place for the futurama fans  
