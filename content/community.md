@@ -13,7 +13,7 @@ name = "Join the network"
 url = "https://discord.gg/DQrrG9uv" -->
 
 ### What are the best Discord Servers for Sci-Fi Fans?
-#### Choose the community you like based on your interests
+Choose the community you like and based on your interests
 
 - **Cyberpunk: Edgerunners**  
 
