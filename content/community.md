@@ -1,5 +1,5 @@
 +++
-title = 'Let's grow the Sci-Fi community'
+title = 'Community'
 layout = 'community'
 url = '/community/'
 summary = 'commuity'
