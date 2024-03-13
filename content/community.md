@@ -34,20 +34,18 @@ url = "https://discord.gg/DQrrG9uv" -->
     If you like Star Wars and memes then this community is for you  
 
     [JOIN THIS COMMUNITY](https://discord.gg/BRJBZR4T)
-<p>&nbsp;</p>    
+<p>&nbsp;</p> 
+
 - **Futurama**  
 
     The go-to place for the futurama fans  
 
     [JOIN THIS COMMUNITY](https://discord.gg/d7N8Bsjy)
-    
-      
-      
+<p>&nbsp;</p>
+
 - **Science Fiction Remnant**  
 
     If you loved the podcast you're going to love this server  
 
     [JOIN THIS COMMUNITY](https://discord.gg/NJxbcmNF)
-    
-      
-      
+ <p>&nbsp;</p> 
