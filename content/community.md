@@ -1,5 +1,5 @@
 +++
-title = 'Community'
+title = 'Let's grow the Sci-Fi community'
 layout = 'community'
 url = '/community/'
 summary = 'commuity'
@@ -12,8 +12,8 @@ summary = 'commuity'
 name = "Join the network"
 url = "https://discord.gg/DQrrG9uv" -->
 
-##### Best Discord Servers for Sci-Fi Fans
-###### Choose the community you like based on your interests
+### What are the best Discord Servers for Sci-Fi Fans?
+#### Choose the community you like based on your interests
 
 - **Cyberpunk: Edgerunners**  
 
