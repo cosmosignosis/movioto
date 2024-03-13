@@ -17,15 +17,21 @@ url = "https://discord.gg/DQrrG9uv" -->
 
 - **Cyberpunk: Edgerunners**  
 
-    A community for talking about 2022 web anime series  
+    A community to discuss the mini series
 
     [Join this Community](https://discord.gg/jwbJTtps)
 
-- **Dune**\  
 
-    A community for talking about the sci-fi classic Dune\  
+
+
+- **Dune**  
+
+    Connect with other fans of the sci-fi classic Dune  
 
     [Join this Community](https://discord.gg/rsTKywNZ)
+
+
+
 
 - **Star Wars Meme Empire**  
 
@@ -33,16 +39,24 @@ url = "https://discord.gg/DQrrG9uv" -->
 
     [Join this Community](https://discord.gg/BRJBZR4T)
 
+
+
+
 - **Futurama**  
 
     This is the go-to place for the futurama fans  
 
     [Join this Community](https://discord.gg/d7N8Bsjy)
 
+
+
+
+
 - **Science Fiction Remnant**  
 
     If you loved the podcast you're going to love this server  
-    
+
     [Join this Community](https://discord.gg/NJxbcmNF)
+
 
 
