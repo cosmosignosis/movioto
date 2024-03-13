@@ -13,4 +13,3 @@ name = "Join the network"
 url = "https://discord.gg/DQrrG9uv"
 
 
-{{% button href="https://discord.gg/DQrrG9uv" %}}Get Grav{{% /button %}}
