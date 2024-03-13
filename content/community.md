@@ -21,37 +21,26 @@ url = "https://discord.gg/DQrrG9uv" -->
 
     [Join this Community](https://discord.gg/jwbJTtps)
   
-    
-
 - **Dune**  
 
     Connect with other fans of the sci-fi classic Dune  
 
     [Join this Community](https://discord.gg/rsTKywNZ)
   
-    
-
 - **Star Wars Meme Empire**  
 
     If you like Star Wars and memes then this community is for you  
 
     [Join this Community](https://discord.gg/BRJBZR4T)
-  
-    
 
 - **Futurama**  
 
     This is the go-to place for the futurama fans  
 
     [Join this Community](https://discord.gg/d7N8Bsjy)
-  
-    
 
 - **Science Fiction Remnant**  
 
     If you loved the podcast you're going to love this server  
 
     [Join this Community](https://discord.gg/NJxbcmNF)
-  
-    
-    
