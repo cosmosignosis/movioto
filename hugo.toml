@@ -9,7 +9,7 @@ favicon = 'assets /favicon.ico'
     ShowPostNavLinks = true
     [params.homeInfoParams]
         Title = "Your favorite Sci-Fi Film?"
-        Content = "Well, let's talk about it!!!--**"
+        Content = "Well, let's talk about it!!!--**(("
     
 [assets]
     favicon16x16 = '/assets/favicon-16x16.png'
