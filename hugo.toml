@@ -18,10 +18,10 @@ favicon = 'assets /favicon.ico'
     android_chrome512x512 = '/assets/android-chrome-512x512'
     android_chrome192x192 = '/assets/android-chrome-192x192'
 
-[markup]
-  defaultMarkdownHandler = 'blackfriday'
-  [markup.blackFriday]
-    hrefTargetBlank = true
+# [markup]
+#   defaultMarkdownHandler = 'blackfriday'
+#   [markup.blackFriday]
+#     hrefTargetBlank = true
 
 # [[menu.main]]
 #   identifier = "categories"
