@@ -27,7 +27,7 @@ url = "https://discord.gg/DQrrG9uv" -->
 
     Connect with other fans of the sci-fi classic Dune  
 
-    [Join this Community](https://discord.gg/rsTKywNZ)
+    [JOIN THIS COMMUNITY](https://discord.gg/rsTKywNZ)
     
       
         
@@ -35,7 +35,7 @@ url = "https://discord.gg/DQrrG9uv" -->
 
     If you like Star Wars and memes then this community is for you  
 
-    [Join this Community](https://discord.gg/BRJBZR4T)
+    [JOIN THIS COMMUNITY](https://discord.gg/BRJBZR4T)
     
       
       
@@ -43,7 +43,7 @@ url = "https://discord.gg/DQrrG9uv" -->
 
     This is the go-to place for the futurama fans  
 
-    [Join this Community](https://discord.gg/d7N8Bsjy)
+    [JOIN THIS COMMUNITY](https://discord.gg/d7N8Bsjy)
     
       
       
@@ -51,7 +51,7 @@ url = "https://discord.gg/DQrrG9uv" -->
 
     If you loved the podcast you're going to love this server  
 
-    [Join this Community](https://discord.gg/NJxbcmNF)
+    [JOIN THIS COMMUNITY](https://discord.gg/NJxbcmNF)
     
       
       
