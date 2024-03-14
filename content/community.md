@@ -3,6 +3,10 @@ title = 'Community'
 layout = 'community'
 url = '/community/'
 summary = 'commuity'
+[cover]
+    image = 'img/community.jpg'
+    alt = 'Join a sci fi community'
+    caption = 'Join a sci fi community'
 +++
 
 <!-- ## join thefirst discord link
