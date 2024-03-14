@@ -1,7 +1,7 @@
 +++
 title = 'First post yo'
 date = 2023-11-06T15:58:47+05:30
-draft = false
+draft = true
 [cover]
     image = 'img/true.jpg'
     alt = 'This is a post image'
