@@ -4,7 +4,7 @@ layout = 'community'
 url = '/community/'
 summary = 'commuity'
 [cover]
-    image = 'img/community.jpg'
+    image = 'img/community.png'
     alt = 'Join a sci fi community'
     caption = 'Join a sci fi community'
 +++
