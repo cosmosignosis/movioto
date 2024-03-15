@@ -1,7 +1,7 @@
 +++
 title = "Your favourite celebrities' favourite sci fi films"
 description = 'Everyone loves a good sci-fi film even the celebrities and they are pretty vocal about their favorites.'
-Some of the most beloved celebrities from all over the world have weighed in on their favourite movies over the years choosing from a range of sci fi films.' 
+# Some of the most beloved celebrities from all over the world have weighed in on their favourite movies over the years choosing from a range of sci fi films.' 
 date = 2023-11-06T15:58:47+05:30
 draft = false
 [cover]
