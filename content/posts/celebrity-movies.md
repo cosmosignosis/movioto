@@ -1,6 +1,6 @@
 +++
 title = "Your Favourite Celebrities' Favourite Sci-Fi Films"
-description = 'Everyone loves a good sci-fi film even the most famous people and they are pretty vocal about their favorites.'
+description = 'Everyone loves a good sci-fi film even the most famous people on earth and they are pretty vocal about their favorites.'
 # Some of the most beloved celebrities from all over the world have weighed in on their favourite movies over the years choosing from a range of sci fi films.' 
 author = "By Nishant Surya"
 date = 2023-11-06T15:58:47+05:30
@@ -10,10 +10,16 @@ draft = false
     alt = 'Favorite sci-fi movies of celebrities'
     # caption = 'Favorite movies of celebrities'
 +++
+Some of worlds most influential people love innovative futurisitc technology, as is evident in their picks for their favorite sci-fi films of all time, while others just seem to enjoy mind bending dystopian stories. From buisiness leaders to the biggest scientists, the biggest celebrities have publicly weighed in on their favorite sci-fi movies. Some shared insights into masterpieces that inspired their journey into the field of science and tech, and some praised the thought provoking movies that influenced their thought process and perspective towards life.
+
+You'll notice a pattern in the choices made by these celebrities. Most of them seem to be attracted towards the work of three directors namely, Stanley Kubrick, RIdley Scott, Christopher Nolan. The earliest favorite is a black and white film from as far back as 1961 and the most recent is a series from 2022
+
+<!-- To enjoy sci
+A good sci-fi movie - or sometimes a bad one - usually deals with good or bad innovation which is why some of the most successful people in the world love it. From the biggest podcasters to the biggest youtubers and movie directors, the biggest celebrities have often picked a sci fi film as their favorite movie
 
 Everyone loves the sci fi genre and celebrities are no different as they too harbour a deep passion for sci fi, as evident in their picks for their favourite sci fi film of all time. Some even shared insights into how these movies affected their personal vision and thought process since we all know how futuristic some of the sci fi movies are. No wonder sci fi movies often predict the future its prpbably because it isnpuires people to create what they show in the movies and these people later on become celebrtieis and visionaries as it is the thinking man’s genre.  
 
-If there seems to be any trend among these celebs, it’s love for the work of directors like Ridley Scott Three of Scott’s best movies are represented among the celebrities favorites. Meanwhile two of the choices ofr favourite movies are directed by Stanley Kubrick. Sci fi is an evergreen genre which is why there are films in this list from many diufferent decades the 70s , 80s even the last decade. 
+If there seems to be any trend among these celebs, it’s love for the work of directors like Ridley Scott Three of Scott’s best movies are represented among the celebrities favorites. Meanwhile two of the choices ofr favourite movies are directed by Stanley Kubrick. Sci fi is an evergreen genre which is why there are films in this list from many diufferent decades the 70s , 80s even the last decade.  -->
 
 
 ## 1. Elon Musk - Star wars  
