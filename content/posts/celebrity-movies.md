@@ -1,6 +1,6 @@
 +++
 title = "Your Favourite Celebrities' Favourite Sci-Fi Films"
-description = 'Everyone loves a good sci-fi film even the celebrities and they are pretty vocal about their favorites.'
+description = 'Everyone loves a good sci-fi film even the most famous people and they are pretty vocal about their favorites.'
 # Some of the most beloved celebrities from all over the world have weighed in on their favourite movies over the years choosing from a range of sci fi films.' 
 author = "By Nishant Surya"
 date = 2023-11-06T15:58:47+05:30
