@@ -1,12 +1,13 @@
 +++
-title = 'Your favourite celebrities favourite sci fi films' 
-description = 'Some of the most beloved celebrities from all over the world have weighed in on their favourite movies over the years choosing from a range of sci fi films.' 
+title = "Your favourite celebrities' favourite sci fi films"
+description = 'Everyone loves a good sci-fi film even the celebrities and they are pretty vocal about their favorites.'
+Some of the most beloved celebrities from all over the world have weighed in on their favourite movies over the years choosing from a range of sci fi films.' 
 date = 2023-11-06T15:58:47+05:30
 draft = false
 [cover]
     image = 'img/01/celeb-cover.png'
-    alt = 'Favorite movies of celebrities'
-    caption = 'Favorite movies of celebrities'
+    alt = 'Favorite sci-fi movies of celebrities'
+    # caption = 'Favorite movies of celebrities'
 +++
 
 Everyone loves the sci fi genre and celebrities are no different as they too harbour a deep passion for sci fi, as evident in their picks for their favourite sci fi film of all time. Some even shared insights into how these movies affected their personal vision and thought process since we all know how futuristic some of the sci fi movies are. No wonder sci fi movies often predict the future its prpbably because it isnpuires people to create what they show in the movies and these people later on become celebrtieis and visionaries as it is the thinking man’s genre.  
