@@ -4,7 +4,7 @@ description = 'Everyone loves a good sci-fi film even the celebrities and they a
 # Some of the most beloved celebrities from all over the world have weighed in on their favourite movies over the years choosing from a range of sci fi films.' 
 date = 2023-11-06T15:58:47+05:30
 draft = false
-author = "Nishant"
+author = "By Nishant Surya"
 [cover]
     image = 'img/01/celeb-cover.png'
     alt = 'Favorite sci-fi movies of celebrities'
