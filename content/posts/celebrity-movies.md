@@ -45,19 +45,39 @@ In the series of shortfilms The Cut on BFI player when he was asked to recommend
 
 ![Adesanya likes movies](/img/01/03adesanya.png "Adesanya's favorite movie")  
 
-Speaking to GQ magazine, Israel adesanya ranked his five favourite anime. The unmatchedly bold mixed martial artist, whom fight fans and anime fans will know is an avid anime lover, chose Spriggan the sci fi shounen action anime based on the manga with similar name. With its realistic action and authentic portrayal of high tech. and already being considered one of the greatest animesd of all time despite being a new release, it’s no wonder Spriggan captured Adesanya’s imagination.
+<!-- it was futuristic, i like the suit he was in, like it was a overpowered suit, but it was a lot of blood,i like when i see anime and i see blood,i dont want you to sugarcoat it, and oh no all this fighting's happening and there's no blood and noone dies, it;s like nah i want to see poeople's head gets ripped up, sliced up don't sugarcoat it for me, -->
+
+GQ asked former UFC middleweight champion Israel Adesanya to rank his top 5 animes.(link: https://www.youtube.com/watch?v=n52YaAy67YQ) The unmatchedly bold mixed martial artist, whom fight fans will know is an avid anime lover, chose Spriggan the Netflix anime series adaptation of manga. The mini series has 6 episodes with each focusing on a different arc from the original manga . With its authentic portrayal of action and futuristic tech, it’s no wonder Spriggan captured Adesanya’s imagination.
+
+<!-- Speaking to GQ magazine, Israel adesanya ranked his five favourite anime. The unmatchedly bold mixed martial artist, whom fight fans and anime fans will know is an avid anime lover, chose Spriggan
+and already being considered one of the greatest animesd of all time despite being a new release, sci fi shounen action anime based on the manga with similar name-->
 
 ## 4. Joe Rogan - Alien 
 
 ![Rogan likes movies](/img/01/04rogan.png "Rogan's favorite movie")  
 
-Joe Rogan is the worlds biggest podcaster and often interviews very interesting group of people and is also never shy of revealing his own opinion and choices. In one of the episodes of the podcast with physicist Brian Cox, Rogan revealed that Alien is his favourite sci fi movie. He called the movie “one of the greatest horror science fiction movies of all time and one of my all time favourite movies.” Released in 1979 Alien was ndirected by Ridley Scott and written by Dan O’Bannon.  The movie follows a commercial spaceship crew as it comes in contact with with dangerous and hostile extraterrestrial beings.
+(link: https://www.youtube.com/watch?v=wieRZoJSVtw)
+
+I feel like Ridley Scott's original alien is probably one of the greatest horrors science fiction movies of all time and one of my all time favorite movies but i really like the newer ones as well, i like prometheus and i really like covenant.
+
+While talking to physicist Brian Cox on his podcast, Joe Rogan, took a momment to shout out one of his favorite sci-fi films Ridley Scott's original Alien. The biggest podcaster in the world, Rogan, called the movie "one of the greatest horror science fiction movies of all time" and goes on to confess that it is an "all time favorite movie" of his. It is definitely a respectable choice as the movie's influence is unparallelled as it set the template for sci-fi horror genre that numerous movies later followed.
+
+
+<!-- Joe Rogan is the worlds biggest podcaster and often interviews very interesting group of people and is also never shy of revealing his own opinion and choices. In one of the episodes of the podcast with physicist Brian Cox, Rogan revealed that Alien is his favourite sci fi movie. He called the movie “one of the greatest horror science fiction movies of all time and one of my all time favourite movies.” Released in 1979 Alien was ndirected by Ridley Scott and written by Dan O’Bannon.  The movie follows a commercial spaceship crew as it comes in contact with with dangerous and hostile extraterrestrial beings. -->
 
 ## 5. Neil deGrasse Tyson - THe Martian
 
 ![Tyson likes movies](/img/01/05neildegrassetyson.png "Tyson's favorite movie")  
 
-It's not shocking that everyone wants to know the favorite sci fi film of the worlds most famous scientist Neil De Grasse Tyson is an extremely accomplished astrophysicst and arguably one of the most popular advocates of science. He is also a fan of science fiction movies and harsh critique of it. While he often criticizes movies such as Gravity for being heavily inaccurate he also heaps heavy praise when the moviemakers get it right. He has often said the  The Martian is his favourite science fiction movie because of its accuracy and depiction. The martian follows a astronaut stuck alone on the mars planet and how he manages to survive and come back to Earth. 
+(link https://www.youtube.com/watch?v=QRudxtB8CM0)
+<!-- Neil deGrasse Tyson has been known to ridicule the inacccurate scinece in some of the sci-fi movies like Gravity and Armageddon. So when he was asked to name a sci fi film that is accurate but also great to watch he answered The Martian. He said the science is accurate because the author of the book that ispired the movie is an engineer turned novelist and so he did all the calculations. and it has marquee director ridley scott and it has major actors in it. so its a first run movie where science itself was a character in it. THe movie follows mark whatney who was left for dead on the surface of mars and then they find out he is not dead and we'll come back to you but in 400 days he's got to stay for 400 days on mars and he figures out how to do it using science. -->
+
+
+The brillian astrophysicist Neil deGrasse Tyson has been known to ridicule the inaccuracy of sci-fi movies like Gravity and Armageddon. So when he had to name accurate yet fun sci-fi movies his first pick out of his definite top two is RIdley Scott's The Martian. The film follows Mark Watney played by Matt Damon who is stuck on Mars after a mission goes wrong and now he must survive for 400 days before he can be brought back and he has to do it using science.  Tyson says the reason for the movie's accuracy is that book on which the movie is based is written by an engineer turned novelist so he made the caclulations before writing the book. He added that this is the first sci-fi movie "where science itself was a character in it".
+<!-- 
+when someone asked Neil
+In an out of blue choice Neil deGrasse Tyson expressed his admiration for the 2015 sci-fi/Adventure The martian. 
+It's not shocking that everyone wants to know the favorite sci fi film of the worlds most famous scientist Neil De Grasse Tyson is an extremely accomplished astrophysicst and arguably one of the most popular advocates of science. He is also a fan of science fiction movies and harsh critique of it. While he often criticizes movies such as Gravity for being heavily inaccurate he also heaps heavy praise when the moviemakers get it right. He has often said the  The Martian is his favourite science fiction movie because of its accuracy and depiction. The martian follows a astronaut stuck alone on the mars planet and how he manages to survive and come back to Earth.  -->
 
 ## 6. Christopher Nolan - 2001: A Space Odyssey
 
