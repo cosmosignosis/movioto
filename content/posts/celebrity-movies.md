@@ -27,19 +27,19 @@ If there seems to be any trend among these celebs, it’s love for the work of d
 ![Elon likes movies](/img/01/01musk10.png "Musk's favorite movie")  
 
 
-SpaceX and Tesla founder tweeted in 2018 that the original star wars was his favourite film. The sci fi classic was later renamed to Star Wars: Episode IV – A New Hope because the prequel trilogy was set before it and also because Lucas thought this was the best movie and didn’t want to release the prequels first because in case they failed he wouldn’t have got the financing for the rest of the movies. 
-Directed by George lucas and starring Harrison ford, Mark amill, Carrie Fisher and alec guinness
-Surprise hit, cultural phenomenon
-On the full send podcast Tesla and spaceX founder Elon Musk spoke about the the original Star Wars in 1977 and gave it the credit for inspiring him to build rockets. The film was directed by George Lucas. In his interview Musk also says that the movie had a huge impact on him and inspired him to build rockets.
+In a one on one interview at the MIT AeroAstro Centennial Symposium(link: https://www.youtube.com/watch?v=4DUbiCQpw_4&t=0s), SpaceX and Tesla CEO Elon Musk shared his favorite movies. Among his top picks was the original star wars, a choice that is not surprising given how it became a cultural phenomenon and the fact that it was released when tech billionaire was just a impressionable young boy. He said that it was the first film he ever saw and it was "fairly influential". He also added that he loved the movie and just "played it on loop". The impact of Star Wars on Elon Musk is apparent given Musk's massive proclivity for space travel and technology in general.
 
 ## 2. Brian Cox - The Day the earth caught fire 
 
 ![Brian likes movies](/img/01/02briancox2.png "Brian's favorite movie")  
 
 
-// In an interview for their series asking famous creative people to name the movies that inspired them, BFI player caught up with brian cox, the famous physicist. His first pick, which he later singled out as one of his definite top two, was the sci fi movie, starring.  The film follows… brian cited just how //emotional// the film makes saying it’s a “”
+In an episode of BFI's miniseries The Cut, physicist and author Brian Cox mentioned(link: https://m.facebook.com/BritishFilmInstitute/videos/watch-brian-coxs-film-recommendations-the-cut/178885092895880/) The Day The Earth Caught Fire as one of his favorite . The 1961 British Film tells a story of nuclear tests that sent the Earth off its axis which means that the planet is being pulled by the Sun. Brian was immediately attracted to the plot of the film. He thought the movie was in some ways a "classic disaster film" and even goes on to reveal that he found the movie to be "perversely attractive" and "compelling" since he loved "end of the world" scenario in movies.
+
+<!-- is a result of the fact that we are detonating nuclear bombs and doing nuclear tests and they damage the earth -->
+<!-- // In an interview for their series asking famous creative people to name the movies that inspired them, BFI player caught up with brian cox, the famous physicist. His first pick, which he later singled out as one of his definite top two, was the sci fi movie, starring.  The film follows… brian cited just how //emotional// the film makes saying it’s a “”
 Brian Cox is one of the most renowned phsysicst known not only for his contribution to sciene but for making science popular among younger generation through his innovation shows and concerts. 
-In the series of shortfilms The Cut on BFI player when he was asked to recommend a movie to the people r Brian Cox called “The day the earth caught fire” his favourite sci fi film praising it as a a great piece of art that is also a warning to the future of mankind and how we could destroy ourselves if we didn’t control our greed. The film follows a sequence of events where both America and Russia test atomic bomb at the same time which leads to alterning the earths axis and the earth then starts gravitating towards the sun.
+In the series of shortfilms The Cut on BFI player when he was asked to recommend a movie to the people r Brian Cox called “The day the earth caught fire” his favourite sci fi film praising it as a a great piece of art that is also a warning to the future of mankind and how we could destroy ourselves if we didn’t control our greed. The film follows a sequence of events where both America and Russia test atomic bomb at the same time which leads to alterning the earths axis and the earth then starts gravitating towards the sun. -->
 
 ## 3. Israel Adesanya - Spriggan 
 
