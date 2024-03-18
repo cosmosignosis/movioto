@@ -83,11 +83,13 @@ It's not shocking that everyone wants to know the favorite sci fi film of the wo
 
 ![Nolan likes movies](/img/01/06nolan.png "Nolan's favorite movie")  
 
-Christopher Nolan is widely considered one of the greatest directors of our time. He is also one of the best when it comes to creating science fiction movies. People often wonder what kind of science fiction he himself  likes besides his own creations. When Entertainment Weekly asked him this question he said Stanley Kubrick’s science fiction masterpiece left a huge impression on him. He said “I just felth this extraordinary experience of being taken to another world. You didn’t doubt this world for an instant. It had a larger than life quality.” Decades later Nolan played crucial role in touring a restored version of “2001” around the world. 
+Christopher Nolan is known to audiences for making some of the most iconic sci-fi movies with thought provoking themes and unpredictable narratives - most notably Inception and Interstellar. The director told Entertainment Weekly that 2001: A Space Odyssey is a touchstone that has influenced all this sci-fi work. THe director recalls the first time he watched the film he didnt understand the movie but distinctly remembers the strong experience of being "transported to another world". Decades later Nolan took over the responsibility of oversaw a 70mm unrestored print of 2001: A Apace Odyssey to be shown in Imax Theaters.
+<!-- Christopher Nolan is widely considered one of the greatest directors of our time. He is also one of the best when it comes to creating science fiction movies. People often wonder what kind of science fiction he himself  likes besides his own creations. When Entertainment Weekly asked him this question he said Stanley Kubrick’s science fiction masterpiece left a huge impression on him. He said “I just felth this extraordinary experience of being taken to another world. You didn’t doubt this world for an instant. It had a larger than life quality.” Decades later Nolan played crucial role in touring a restored version of “2001” around the world.  -->
 
 ## 7. Taylor Swift - Hunger Games
 
 ![Swift likes movies](/img/01/07taylorswifthungergames.png "Swift's favorite movie")  
+
 
 Taylor Swift is one of the most famous celebrities in the world. She also wrote a song for the movie and had read the hunger games book in order to do justice to the song. While talking to fans on twitter She called herself a fangirl of the franchise. Hunger games is directed by Gary Ross and features Jennifer Lawrence, Woody Harrelson, Josh Hutcherson and Elizabeth Banks. The hunger games film series is based on Hunger games trilogy of novels by Suzane Collins, The dystopian adventure movie series has a science fiction characterisitic to it because of its futuristic setting.
 
