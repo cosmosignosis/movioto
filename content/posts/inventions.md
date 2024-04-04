@@ -33,7 +33,7 @@ Directed by Wim Wenders turned numerous heads with its idea of flat screen telev
 
 3. Star Trek: The Next Generation
 
-![startrek](/img/04/startrek.jpg "flipphone")  
+![startrek](/img/04/startrekking.png "flipphone")  
 
 Flip phones were ubiquitous at one point however now they have completely evolved into smartphones but did you know that they were first seen in the classic science fiction television series Star Trek : The Next generation. Well this should not come as a surpise considering how many future inventions the start trek franchise has predicted. Even though the flip phones in the movie are not exactly similar to the conventional smart watches they serve the same purpose. To have envisoned someting that would become a reality much later in the future is surely a testament to the creativity of the makers of this legendary franchise
 
