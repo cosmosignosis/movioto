@@ -70,7 +70,7 @@ That's roughly the setup of Sentient by Jeff Lemire. It features plenty of scien
 
 
 
-## 4. (Worlds of) Aldebaran  by Luiz Eduardo de Oliveira
+## 4. Worlds of Aldebaran  by Luiz Eduardo de Oliveira
 
 
 Luiz Eduardo de Oliveira's Worlds of Aldebaran may sound like science-fiction roleplaying game, but its actually the name of his book that was first released in 1994. The simple but potent idea of humans trying to capture distant planet when Earth becomes inhabitable due to global warming and religious wars would capture the imagination of any sci-fi fan. Even though the plot sounds like something Elon Musk would talk about it is definitely a great place to start a science fiction story.
@@ -78,6 +78,7 @@ Luiz Eduardo de Oliveira's Worlds of Aldebaran may sound like science-fiction ro
 Though it shares some similarities to the beloved space adventure star trek, it also leans into many of the less popular sci-fi mainstays like corrupt church, body horror and suicide. The novels main focus is colonists dealing with planet level issues that arise due to human error, however the novel does have a tragic tone when it deals with personal problems. Oliveira's book with it space western feel is long overdue for staggering series.
 
 ## 5. The Incal By Alejandro Jodorowsky
+
 In 1980 Alejando Jordowsky creating a fascinating science fiction tale called the Incal which would later be seen as one of the most legendary French-Belgian Comic.
 If you have seen the documentary Jodorowsky's Dune(2013) then you have probably heard about it. Jordowsky's motivation behind this comic is just as notoriously famous as the comic itself.  He wanted to adapt Dune for the big screen but he ended up changing the story too much and the screenplay ended up being 14 hour long. So naturally he couldn't get the budget for it but he did convert it into a graphic novel of its own with the help of French artist Jean Giraud or Mœbius.
 
