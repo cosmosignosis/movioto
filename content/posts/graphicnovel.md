@@ -6,9 +6,9 @@ author = "By Nishant Surya"
 date = 2023-11-06T15:58:47+05:30
 draft = false
 [cover]
-    image = ''
-    alt = ''
-    caption = ''
+    image = 'img/06/bookmainlowdef.png'
+    alt = 'Sci-fi novels make the best source material for movies'
+    caption = 'Sci-fi novels make the best source material for movies'
 +++
 
 Science fiction is a genre that works extremely well as a cinema. With so many good graphic novels in the genre, it's safe to say there are dozens of science fiction graphic novels deserving of a movie adaptation. Moreover, the success of such hits as V for Vendetta and Watchmen, has proved that sci-fi fans love a transition from paper to the big screen if the adaptation does justice to the material.
@@ -40,6 +40,8 @@ As such there are plenty more sci-fi graphic novels that need to make a step int
 
 ## 1. The Manhattan Projects by Jonathan Hickman 
 
+![manhattan](/img/06/manhattanprint.png "project") 
+
 This comic, which combines historical settings and events with fictionalized characters with a heavy dose of science fiction and a bit of horror, holds a rather unique selling point. THe Manhattan Projects follows the events around the Manhattan Project from world war two but its an alternate reality where the creation of atom bomb is shown as just a front for other unusual projects. In this novel's alternative american reality Robert Oppenheimer suffers from multiple personalities. The plot deals with everything from nuclear bombs to the Holocaust to artificial intelligence. It is a fantastic blend of historical truth and insane fiction
 
 <!-- dark bitter humor in a morally starved world of the book; gross ross, repulsive, appalling look at science and government without conscience (or with a desecrated version of conscience.) At the same time, it’s not an overly serious book -->
@@ -50,6 +52,8 @@ Hickman's novel is a retelling of an important part of american history. On the 
 
 
 ## 2. On a Sunbeam (Tillie Walden)
+
+![graphic](/img/06/sunbeam.png "novel") 
 
 Putting dark history aside for a moment, take a look at a strange tale that is On a sunbeam. On a sunbeam can't truly be put into any one genre. It has elements of both science fiction and romance. The story follows Mia who works in a maintenance spaceship that rebuilds broken structures. Howver her sole purpose for joining the ship is not to rebuild structures but rebuild an old relationship by reconnecting with her lost love. The story takes you on an emotional rollercosaster that will make you laugh and cry sometimes both at the same time. The second half of the novel however is more action loaded and less emotionally charged.
 
@@ -62,6 +66,8 @@ Walden's webcomic with its explosive ending is long overdue for a staggering thr
 
 ## 3. Sentient (Jeff Lemire)
 
+![graphic](/img/06/sentient.png "novel") 
+
 Imagine a group of children stuck in a colony ship in deep space forced to survive on their own after all the adults on the ship get murdered. THe only help they have is the guidance of the onboard AI VALARIE. While survival is the strongest instinct in humans distrust towards AI is the most common sentiment. So the idea that these children now have no other option but to trust AI for survival is an extremely interesting premise.
 
 That's roughly the setup of Sentient by Jeff Lemire. It features plenty of science fiction tropes such as an space pirate invasion, kids in space, AI learning to be a human and a colony ship. A young adult science fiction like Sentient which is a bit soft on science but deals with dystopia, identity and spaceship drama is rare these days so this is definitely a unique novel. Lemire's novel would be absolutely perfect for horror space opera movie or even a miniseries, and someone needs to tip off the studio executives.
@@ -72,12 +78,15 @@ That's roughly the setup of Sentient by Jeff Lemire. It features plenty of scien
 
 ## 4. Worlds of Aldebaran  by Luiz Eduardo de Oliveira
 
+![graphic](/img/06/Aldebarannoir.png "novel") 
 
 Luiz Eduardo de Oliveira's Worlds of Aldebaran may sound like science-fiction roleplaying game, but its actually the name of his book that was first released in 1994. The simple but potent idea of humans trying to capture distant planet when Earth becomes inhabitable due to global warming and religious wars would capture the imagination of any sci-fi fan. Even though the plot sounds like something Elon Musk would talk about it is definitely a great place to start a science fiction story.
 
 Though it shares some similarities to the beloved space adventure star trek, it also leans into many of the less popular sci-fi mainstays like corrupt church, body horror and suicide. The novels main focus is colonists dealing with planet level issues that arise due to human error, however the novel does have a tragic tone when it deals with personal problems. Oliveira's book with it space western feel is long overdue for staggering series.
 
 ## 5. The Incal By Alejandro Jodorowsky
+
+![graphic](/img/06/incalnoir.png "novel") 
 
 In 1980 Alejando Jordowsky creating a fascinating science fiction tale called the Incal which would later be seen as one of the most legendary French-Belgian Comic.
 If you have seen the documentary Jodorowsky's Dune(2013) then you have probably heard about it. Jordowsky's motivation behind this comic is just as notoriously famous as the comic itself.  He wanted to adapt Dune for the big screen but he ended up changing the story too much and the screenplay ended up being 14 hour long. So naturally he couldn't get the budget for it but he did convert it into a graphic novel of its own with the help of French artist Jean Giraud or Mœbius.
@@ -88,6 +97,8 @@ This beautiful piece of graphic literature revolves around John Difool, a low cl
 
 ## 6. Joe Haldeman's The Forever War
 
+![graphic](/img/06/foreverwarnoir.png "novel") 
+
 The premise alone of this series should warrant an adaptation, although it's definitely not for the faint of heart at all because to some extent it shows the reality of war. Haldmen tells the story about human soldiers fighting in a interstellar war with a hostlie alien enemy civilization the Taurans. In many ways the Forever war is the pioneer of the sci-fi military genre along with Heinlein’s Starship Troopers.’ However once you read it you will have an entirely different experience than Startship troopers or even Man's war by Scalzi. You follow the story through the eyes of the main protagonist William Mandela who is just an ordinary person studying physics at a university but is pulled into the war to contribute. Even though you may find several plot points to be a bit unnerving like the views on homosexuality the novel is definitely a masterpiece and worth a read.
 
 THe rigsht to adapt The Forever War has moved through various hands in hollywood since 1988 with Ridley Scott being the one to hold the right at one point. In 2015 Warner Bros acqiored the right to adapt the film and have started the development of the script however so far nothing has come to fruitiion. It's not surprising why so many big names want to adapt this film because if done right it surely has the potential to be a genre defining project.
@@ -95,12 +106,16 @@ THe rigsht to adapt The Forever War has moved through various hands in hollywood
 
 ## 7. Global Frequency  Warren Ellis
 
+![graphic](/img/06/globalfreqnoir.png "novel") 
+
 The Sci-fi epic Global Frequency has everything: emotionally charging drama, incredible action, mystery, engaging character development  and a bone chilling plotline. The series is just as great as Planetary - another creation of Ellis. The novel already has an army of fans behind it, and for good reason. Global Frequency, despite its popularity is one of the most underrated comic works of the 21st century. THe novel follows the operations of an intelligence agency that counters that governements and protects the people its secret projects. 
 
 So far there have been two attempts at adapting the novel into a tv series once by Warner Bros and the second time by Fox. However, both times the project was dropped due to problems with the script. The sci-fi series of 12 issues has a near perfect plot with tons of interesting subplots involving fights with alien and governments and the use of futuristic technology making it an ideal contender for the development of a netflix show. 
 
 
 ## 8. Not All Robots - Mark Russell
+
+![graphic](/img/06/notallrobotsnoir.png "novel") 
 
 In 2021 Mark Russell delivered a fascinating science fiction satirical/social commentary in the form of the novel Not All Robots. 
  The central premise of Not All Robots is that every human family is completely reliant on a robot assigned to them. The novel follows Walters family whose Robot ominously spends his free time in the garage working on machines which they are sure is designed to kill them in.
@@ -113,6 +128,8 @@ In 2021 Mark Russell delivered a fascinating science fiction satirical/social co
 
 ## 9. We3 by writer Grant Morrison
 
+![graphic](/img/06/we3news.png "novel") 
+
 The name We3 might not sound all too familiar to general audiences, but the novel by Grant Morrison actually inspired several elements in the beloved Marvel film Guardians of the Galaxy Vol. 3. When looking at what makes a science fiction movie entertaining, three cybernetic animals who are created by the governmment and are trying to get home feels like a winning recipe. We3 also has the added inclusion of government conspiracy
 
 
@@ -122,6 +139,8 @@ We3 also has the added inclusion of aliens, pirates and futuristic tech all of w
 three house pets weaponized for lethal combat by the government - as they search for "home" and ward off the shadowy agency that created them -->
 
 ## 10. The Coffin - Phil Hester
+
+![graphic](/img/06/coffin.png "novel") 
 
 The combination of science fiction and superheros is bound to be a winning one in the world of movies. The Coffin follows Dr. Ashtar Ahmad who is pursuing the dream of immortality by building a suit the can store the soul even after the physical body dies and the person can live on forever. However his research comes to an abrupt halt when a tycoon kidnaps his daugther and asks for doctor's suit as ransom. It's twisted, it's firghtening, it's darkly funny, it's everything you would expect from such a premise.
 
