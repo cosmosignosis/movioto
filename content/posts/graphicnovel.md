@@ -1,7 +1,6 @@
 +++
 title = '10 Sci-Fi Graphic novels that deserve a movie adaptation' 
 description = 'Graphic novels are excellent source materials for sci-fi movies. Here are some that have been overlooked by movie makers and deserve to be adapted'
-# Grahic novels have often proved to be an excellent resource for creating sci-fi movies. Here are some that deserved to be adapted but have not been adapted so far #
 author = "By Nishant Surya"
 date = 2023-11-06T15:58:47+05:30
 draft = false
@@ -11,6 +10,7 @@ draft = false
     caption = 'Sci-fi novels make the best source material for movies'
 +++
 
+<!-- # Grahic novels have often proved to be an excellent resource for creating sci-fi movies. Here are some that deserved to be adapted but have not been adapted so far # -->
 Science fiction is a genre that works extremely well as a cinema. With so many good graphic novels in the genre, it's safe to say there are dozens of science fiction graphic novels deserving of a movie adaptation. Moreover, the success of such hits as V for Vendetta and Watchmen, has proved that sci-fi fans love a transition from paper to the big screen if the adaptation does justice to the material.
 
 Though reading, as good of a habit as it is, is not the most accessible of mediums since for the vast majority of people its easier to watch a movie than read a book. As a result numerous fantastic stories and characters are trapped and hidden awayy from general audiences and are yet to be adapted. Here is my pick of top 10 that deserve it the most:
