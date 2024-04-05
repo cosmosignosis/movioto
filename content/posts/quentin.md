@@ -82,7 +82,7 @@ Even though Tarantino has never made a sci -=fi movie he is a big fan of the gen
 
 ## Why it's unlikely Tarantino will make a sci-fi movie ?
 
-![manhattan](/img/03/iconicshots.png "project") 
+![manhattan](/img/03/trunky.png "project") 
 
 Tarantino's tenth and final movie "The Movie Critic" has supposedly already entered early stages of production. So its certain as of now that he won't be making a sci-fi film as his final projet. That is, unless "The Movie Critic" project gets scrapped and Tarantino starts looking at other projects for his 10th film which is quite possible knowing his history of numerous unrealized projects. Or maybe Tarantino ditches his plans of only making 10 movies but since he has been talking about this stipulation throughout his career that is less than likely.
 
