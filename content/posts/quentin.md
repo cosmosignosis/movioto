@@ -36,6 +36,8 @@ One of the biggest problems with making a good sci fi film is the lack of budget
 
 2. 2014 - Sci Fi Horror
 
+![manhattan](/img/06/myers.png "project") 
+
 In 2014 San Diego Comic Con  Tarantino revealed that he is planning on making a sci-fi film that wouldn't be your typical lets go to space film. He said that he wants to stay away from the popular tropes and instead make a slasher sci-fi horror movie. He cited the movie "It Follows" as his main inspiration for this film. So the movie would have been something along the lines of The thing, THe Halloween, Stalker and The Texas Chainsaw Massacre. After that announcement it seemed like the project got stuck in develoment hell because nothing else was announced and the project seemed to have been dropped. But once again in 2019 he brought up that project and said he might revive it start working on it once again. However he cancelled the movie once again because he didn't like his typical wordy writing style for the horror aspect of the film.
 
 <!-- 
@@ -51,6 +53,8 @@ However, if you find this disappointing wait till you find out about the next sc
 cinephile
 
 3. 2017 - Star Trek
+
+![manhattan](/img/06/quentintrek.png "project") 
 
 For the sci-fi fans and movie fans in general it doesn't get any better than a Star Trek film directed by Quentin Tarantino. In 2017, Tarantino was in talks with Paramount Pictures about making this dream a reality. Mark L Smith began working on the screenplay and Tarantino was suppose to co direct the movie with J.J.Abrams who has directed and produced Star Trek reboot projects. However, in May 2019 Tarantio told that because he was occupied with Once Upon a Time in Hollywood he had not beeen able to focus on Star Trek project and the script was still under development. Two months later he received the completed script and was supposed to add his notes to the script. He revealed that he wanted to make the film rated R. However by the end of 2019 Tarantino walked away from the project. His reasoning was that he didn't want to make a franchise film as his last film and instead wanted to work on a small budget film which is perhaps his comfort zone since most of his films don't have big budgets. Regardless of what prompted him to drop the project, he confirmed that the movie might still be made he just won't be the one directing it. Smith however did give a hint about what the movie was about. He shared the story would revolve around Captain Kirk and would have been inspired by gangster films and would have also involved time travel. It was supposed to be a standalone film similar to an episode of Star Trek: The Original Series.
 
