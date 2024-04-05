@@ -91,7 +91,7 @@ Tarantino's tenth and final movie "The Movie Critic" has supposedly already ente
 
 ![manhattan](/img/03/iconicshots.png "project") 
 
-
+is it/it's time to shoot and bury the dream of Quentin Tarantino ever directing a sci-fi film.
 Tarantino's tenth and final movie "The Movie Critic" has supposedly already entered early stages of production. So its certain as of now that he won't be making a sci-fi film as his final projet. That is, unless "The Movie Critic" project gets scrapped and Tarantino starts looking at other projects for his 10th film which is quite possible knowing his history of numerous unrealized projects. Or maybe Tarantino ditches his plans of only making 10 movies but since he has been talking about this stipulation throughout his career that is less than likely.
 
 <!-- o there is little to no change we will get a sci-fi movie from Tarantino unless he drops his plan of making only 10 movies and announces a 11th
