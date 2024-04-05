@@ -25,6 +25,8 @@ He definitely has a good eye to differentiate the good sci-fi movies from the ba
 
 1. 2007 - Westworld
 
+![manhattan](/img/03/myers.png "project") 
+
 Despite the failure of Death Proof, Warner Bros brought Tarantino onboard to remake Westworld starring Arnold Schwarzenegger as the lone gun slinger. However the movie was never made. The biggest obstacle to creating a sci-fi film is the lack of budget. While that was not a problem with Warner Bros, working with Warner Bros created another problem - Executives forcing their inputs on directors. And this is exactly why this film never got made. Tarantino has gone on record several times stating that he doesn't like studio executives interfering with his creative process(insert jre podcast link). The first creative decision forced on Tarantino for this project was the inclusion of Arnold Scwarzenegger but Tarantino wanted to replace him. ANother creative choice forced upon him was to make the movie a bit lighter but as we know from his discography Tarantino loves making dark movies. At the much to the dismay of his fans Tarantino had to walk away from this project.
 
 <!-- 
@@ -36,7 +38,7 @@ One of the biggest problems with making a good sci fi film is the lack of budget
 
 2. 2014 - Sci Fi Horror
 
-![manhattan](/img/03/myers.png "project") 
+![manhattan](/img/03/myers3.png "project") 
 
 In 2014 San Diego Comic Con  Tarantino revealed that he is planning on making a sci-fi film that wouldn't be your typical lets go to space film. He said that he wants to stay away from the popular tropes and instead make a slasher sci-fi horror movie. He cited the movie "It Follows" as his main inspiration for this film. So the movie would have been something along the lines of The thing, THe Halloween, Stalker and The Texas Chainsaw Massacre. After that announcement it seemed like the project got stuck in develoment hell because nothing else was announced and the project seemed to have been dropped. But once again in 2019 he brought up that project and said he might revive it start working on it once again. However he cancelled the movie once again because he didn't like his typical wordy writing style for the horror aspect of the film.
 
