@@ -10,6 +10,7 @@ draft = false
     caption = 'Ranking ghosbuster movies'
 +++
 
+
 2024 is set to be a great year for the genre as fans await some of the most promising releases this year. Some of these releases are reboots like Dune2, Alien: Romulus, sonic the hedgehog3 and come with a respectable legacy and others are new creations like spaceman and The electric state.
 One film that has stood the test of time is Ghostbusters. The franchise has one of the most loyal fanbase and they have received plenty of sequels and reboots. But not all reboots are created equal. As we come close to the release of the latest instalment in the franchise, lets take a look at the best and the worst that the ghostbuster franchise has to offer
 
