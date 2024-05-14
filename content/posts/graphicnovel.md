@@ -11,9 +11,37 @@ draft = false
 +++
 
 <!-- # Grahic novels have often proved to be an excellent resource for creating sci-fi movies. Here are some that deserved to be adapted but have not been adapted so far # -->
+
+
+Good literature inspires good cinema! That's true for many genres but moreso for the sciene fiction. Many great sci-fi movies like The Martian or Arrival could trace their success back to great books. It's also a safe bet for studios since they are investing in stories that already have a eager fanbase. However, adapting science fiction literature to the big screen can be one of the most dauting tasks a director can take up. They need to meet the expectations of the fans, find a way to show on screen what was printed in pages, keep the story succinct, respet authors' world building and characters,  the list goes on and on. But the recent success of adaptations has proved sci-fi fans love a transition from paper to the silver screen if the execution is right and the source material is respected. But why adapt? Well to put it bluntly while reading is a good habit its not a practical option for everyone and a vast majority of people would prefer watching a movie to reading a book.
+
+While there are many different kinds of literature to choose from, graphic novels are often overlooked despite the success of movies like V for Vendetta and Watchmen. However, the serious fans will tell you there is a huge untapped potential if you know your graphic novels well enough. There is an ocean of graphic novels across genres that have not yet been adapted. With so many great options available directors should have not shortage of options when looking for source materials. With that in mind, here is my pick of 10 graphic novels that should be made into a movie.
+<!-- 
+Good literature inspires good cinema! That's true for most genre but especially for science fiction. A lot of the great science ficiton movies could trace back their success to great books like The Martian or Arrival. It's also a safe bet for studio since they are investing in stories that have already been tried and tested in the market. However, adapting science fiction literature to the big screen can be one of the most dauting tasks a director can take up. They need to meet the expectations of the fans, find a way to show on screen what was printed in pages, keep the story succinct the list goes on and on. But the success of such movies likes V for Vendetta and watchmen has proved sci-fi fans love a transition from paper to the silver screen if the execution is right and the source material is respected. But why adapt? Well to put it bluntly while reading is a good habit its not a practical option for everyone and a vast majority of people would prefer watching a movie to reading a book.
+
+While there are many different kinds of literature to choose from, graphic novels are often overlooked despite the success of movies like V for Vendetta and Watchmen. However, the serious fans will tell you there is a huge untapped potential if you know your graphic novels well enough. There is an ocean of graphic novels across genres that have not yet been adapted. With so many great options available directors should have not shortage of options when looking for source materials. With that in mind, here is my pick of 10 graphic novels that should be made into a movie.
+
+While there are many different kinds of literature to choose from, this article focuses on graphic novels which is one of the most overlooked forms of art. WIth so many great graphic novels in the genre directors and studios have no shortage of options when looking for source materials for adaptaions. While graphic novels in and of itself is great to read, its not the most accessible of mediums and a vast majority of people would prefer watching a movie than reading a book. Due to this numerous fantastic stories and characters are trapped and hidden away from genereal audeinces and deserve a movie adapation. -->
+
+<!-- 
 Science fiction is a genre that works extremely well as a cinema. With so many good graphic novels in the genre, it's safe to say there are dozens of science fiction graphic novels deserving of a movie adaptation. Moreover, the success of such hits as V for Vendetta and Watchmen, has proved that sci-fi fans love a transition from paper to the big screen if the adaptation does justice to the material.
 
+Though reading is a fantastic habit, 
+
 Though reading, as good of a habit as it is, is not the most accessible of mediums since for the vast majority of people its easier to watch a movie than read a book. As a result numerous fantastic stories and characters are trapped and hidden awayy from general audiences and are yet to be adapted. Here is my pick of top 10 that deserve it the most:
+
+
+However, if done correctly it could easily become a cultural phenomenon like 2001: A Space Odyssey.
+
+
+But why adapt
+Out of all the types of literature Graphic novels are often overlooked 
+But what type of literature 
+
+Good literature inspires good cinema! This is true for all genres and especially for science fiction. Whether its the Martian or Arrival you can trace back the success of these movies to the books on which they were based. Its also a safe bet for studios to invest in movies that are adapted from books that already have fanbase.  This is great However adapting science ficiton literature to the big screen is perhaps one of the most daunting tasks a director can take up. 
+WHile adapting science fiction literature to the big screen may be challenging there is no shortage of source material. With so  -->
+
+
 
 <!-- Though reading, as popular of a hobby as it is, can sometimes be a medium where fantastic stories are trapped and hidden away from general audiences.As such there are plenty more sci-fi graphic novels that need to make a step into movies. Here is my pick of top 10 that deserve it the most: -->
 
