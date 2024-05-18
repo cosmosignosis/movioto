@@ -66,15 +66,25 @@ As such there are plenty more sci-fi graphic novels that need to make a step int
 ## 1. Tokyo Ghost By Rick Remender
 -->
 
-## 1. The Manhattan Projects by Jonathan Hickman 
+## 1. The Manhattan Projects by Jonathan Hickman and Nick Pitarra
 
 ![manhattan](/img/06/manhattanprint.png "project") 
+persistent satire(dismisses historicity of the series), no historical accuracy, alternate history, only partial history, sudden reveals undercuts realism(we see materials being gathered from pan-dimensional space, mythological artifacts from discarded space, artificial intelligence, and the deconstruction of an alien spaceship.), humor, absurdist, innovative sentient origami, intricate captivating ideas(launches multiple ideas at the audience), Oppenheimer's multiple personalities and a locked up einstein,..Moreover, they’re seeds for the rest of the series; the outward appearance of the Project(s) is for the Earth-bound wartime conflicts, but their real interest lies beyond our atmosphere. visuals which promise an even crazier, psychedelic future for the series. ambitious scientists, casualties in the wake of pursuit of scientific advancements by these scientists, morality of the scientists underdeveloped(bad) , very few female characters in the first volume(although that is likely by design; It’s not hard to imagine, given the attitudes of the characters and the time period, that female voices would likely be ignored.) Overall, with this first volume, “The Manhattan Projects” is set up as a satirical reimagining of the real Manhattan Project, that has established a multitude of intriguing characters and concepts to be explored over the next five volumes
 
-This comic, which combines historical settings and events with fictionalized characters with a heavy dose of science fiction and a bit of horror, holds a rather unique selling point. THe Manhattan Projects follows the events around the Manhattan Project from world war two but its an alternate reality where the creation of atom bomb is shown as just a front for other unusual projects. In this novel's alternative american reality Robert Oppenheimer suffers from multiple personalities. The plot deals with everything from nuclear bombs to the Holocaust to artificial intelligence. It is a fantastic blend of historical truth and insane fiction
+WIth the massive success of Oppenheimer there has never been a better time to adapt The Manhattan Projects by Jonathan Hickman and Nick Pitarra. The biggest selling point for this story is the way it combines history with fiction. however, the story's historical accuracy ends there after that its al fiction. THe premise of the novel is that the project was just a front for numerus secret government projects run by morally challenged scientists. Some of the famous scientists you'd find in it are Robert Oppenheimer who suffers from multiple personalities disorder and a locked up Einstein. The story has everything that  you'd want in a hit movies' screenplay. It is full of humor, satire, absurd innovations like a scientist who is just a radiological mass, intriguiing characters, pan-dimensional space, mythological artifacts from discarded space, artificial intelligence, and the deconstruction of an alien spaceship intricate and captivating plot points which are explored over 6 volumes. In the right hands this could even lead to a franchise. We know how Quentin loves making movies with alterenate history and this could be the perfect project for him if he still wants to make a sci-fi movie.
+<!-- The novel follows the world war II scientists who were associted with the Manhattan project. morally challenged scientist -->
+
+
+
+
+Hickman's novel is a retelling of an important part of american history. On the big screen would be a dark bitter humorous movie that shows a morally starved world and throws and appalling light on science and government without conscience (or with a desecrated version of conscience) but at the same time withyout being too serious - maybe it's the perfect sci-fi project for Quentin Tarantino
+
+<!-- Very few novels combine Historical truth with fiction like The Manhattan Project.   Jonathan Hickman's The Manhattan
+This comic, which combines historical settings and events with fictionalized characters with a heavy dose of science fiction and a bit of horror, holds a rather unique selling point. THe Manhattan Projects follows the events around the Manhattan Project from world war two but its an alternate reality where the creation of atom bomb is shown as just a front for other unusual projects. In this novel's alternative american reality Robert Oppenheimer suffers from multiple personalities. The plot deals with everything from nuclear bombs to the Holocaust to artificial intelligence. It is a fantastic blend of historical truth and insane fiction -->
 
 <!-- dark bitter humor in a morally starved world of the book; gross ross, repulsive, appalling look at science and government without conscience (or with a desecrated version of conscience.) At the same time, it’s not an overly serious book -->
 
-Hickman's novel is a retelling of an important part of american history. On the big screen would be a dark bitter humorous movie that shows a morally starved world and throws and appalling light on science and government without conscience (or with a desecrated version of conscience) but at the same time withyout being too serious - maybe it's the perfect sci-fi project for Quentin Tarantino
+<!-- Hickman's novel is a retelling of an important part of american history. On the big screen would be a dark bitter humorous movie that shows a morally starved world and throws and appalling light on science and government without conscience (or with a desecrated version of conscience) but at the same time withyout being too serious - maybe it's the perfect sci-fi project for Quentin Tarantino -->
 
 <!-- Cleeton's novel is an intimate retelling of Cuban history — the big screen could do with more diverse stories. -->
 
@@ -83,14 +93,15 @@ Hickman's novel is a retelling of an important part of american history. On the 
 
 ![graphic](/img/06/sunbeam.png "novel") 
 
+Putting our Government's dark histories aside for a moment, 
 Putting dark history aside for a moment, take a look at a strange tale that is On a sunbeam. On a sunbeam can't truly be put into any one genre. It has elements of both science fiction and romance. The story follows Mia who works in a maintenance spaceship that rebuilds broken structures. Howver her sole purpose for joining the ship is not to rebuild structures but rebuild an old relationship by reconnecting with her lost love. The story takes you on an emotional rollercosaster that will make you laugh and cry sometimes both at the same time. The second half of the novel however is more action loaded and less emotionally charged.
 
 The writer's imaginative storytelling combined with the desperation and hope that accompany the characters make On a Sunbeam a worthy candidate for a memorable romantic sci-fi film with some good action sequences as well - this could end up being the movie that has everything!
 
-Its been sometime s
+<!-- Its been sometime s
 
 
-Walden's webcomic with its explosive ending is long overdue for a staggering thriller of a  movie
+Walden's webcomic with its explosive ending is long overdue for a staggering thriller of a  movie -->
 
 ## 3. Sentient (Jeff Lemire)
 
@@ -108,9 +119,9 @@ That's roughly the setup of Sentient by Jeff Lemire. It features plenty of scien
 
 ![graphic](/img/06/Aldebarannoir.png "novel") 
 
-Luiz Eduardo de Oliveira's Worlds of Aldebaran may sound like science-fiction roleplaying game, but its actually the name of his book that was first released in 1994. The simple but potent idea of humans trying to capture distant planet when Earth becomes inhabitable due to global warming and religious wars would capture the imagination of any sci-fi fan. Even though the plot sounds like something Elon Musk would talk about it is definitely a great place to start a science fiction story.
+Luiz Eduardo de Oliveira's Worlds of Aldebaran may sound like science-fiction roleplaying game, but its actually the name of his book that was first released in 1994. The simple but potent idea of humans trying to capture distant planet when Earth becomes inhabitable due to global warming and religious wars would capture the imagination of any sci-fi fan. Even though the plot sounds like something Elon Musk would talk about (in one of his seminas) it is definitely a great place to start a science fiction story.
 
-Though it shares some similarities to the beloved space adventure star trek, it also leans into many of the less popular sci-fi mainstays like corrupt church, body horror and suicide. The novels main focus is colonists dealing with planet level issues that arise due to human error, however the novel does have a tragic tone when it deals with personal problems. Oliveira's book with it space western feel is long overdue for staggering series.
+Though it shares some similarities to the beloved space adventure star trek, it also leans into many of the less popular sci-fi mainstays like corrupt church, body horror and suicide. The novels main focus is colonists dealing with planet level issues that arise due to human error, however the novel does have a tragic tone when it deals with personal problems. Oliveira's book with it space western feel is long overdue for staggering and thrilling series.
 
 ## 5. The Incal By Alejandro Jodorowsky
 
@@ -127,7 +138,12 @@ This beautiful piece of graphic literature revolves around John Difool, a low cl
 
 ![graphic](/img/06/foreverwarnoir.png "novel") 
 
-The premise alone of this series should warrant an adaptation, although it's definitely not for the faint of heart at all because to some extent it shows the reality of war. Haldmen tells the story about human soldiers fighting in a interstellar war with a hostlie alien enemy civilization the Taurans. In many ways the Forever war is the pioneer of the sci-fi military genre along with Heinlein’s Starship Troopers.’ However once you read it you will have an entirely different experience than Startship troopers or even Man's war by Scalzi. You follow the story through the eyes of the main protagonist William Mandela who is just an ordinary person studying physics at a university but is pulled into the war to contribute. Even though you may find several plot points to be a bit unnerving like the views on homosexuality the novel is definitely a masterpiece and worth a read.
+
+As far as filmable and adaptable premises it go it doesn't get any better than this novel. The 
+The premise alone of this series should warrant an adaptation, although it's definitely not for the faint of heart at all because to some extent it shows the reality of war. Haldmen tells the story about human soldiers fighting in a interstellar war with a hostlie alien enemy civilization the Taurans. In many ways the Forever war is the pioneer of the sci-fi military genre along with Heinlein’s Starship Troopers.’ However once you read it you will have an entirely different experience than Startship troopers or even Man's war by Scalzi. You follow the story through the eyes of the main protagonist William Mandela who is just an ordinary person studying physics at a university but is pulled into the war to contribute. Even though you may find several aspects of worldbuilding to be a bit unnerving like the views on homosexuality the novel is definitely a masterpiece and deserving of an adaptation.
+
+<!-- As far as filmable and adaptable premises it go it doesn't get any better than this novel. The 
+The premise alone of this series should warrant an adaptation, although it's definitely not for the faint of heart at all because to some extent it shows the reality of war. Haldmen tells the story about human soldiers fighting in a interstellar war with a hostlie alien enemy civilization the Taurans. In many ways the Forever war is the pioneer of the sci-fi military genre along with Heinlein’s Starship Troopers.’ However once you read it you will have an entirely different experience than Startship troopers or even Man's war by Scalzi. You follow the story through the eyes of the main protagonist William Mandela who is just an ordinary person studying physics at a university but is pulled into the war to contribute. Even though you may find several plot points to be a bit unnerving like the views on homosexuality the novel is definitely a masterpiece and worth a read. -->
 
 THe rigsht to adapt The Forever War has moved through various hands in hollywood since 1988 with Ridley Scott being the one to hold the right at one point. In 2015 Warner Bros acqiored the right to adapt the film and have started the development of the script however so far nothing has come to fruitiion. It's not surprising why so many big names want to adapt this film because if done right it surely has the potential to be a genre defining project.
 
@@ -136,19 +152,24 @@ THe rigsht to adapt The Forever War has moved through various hands in hollywood
 
 ![graphic](/img/06/globalfreqnoir.png "novel") 
 
-The Sci-fi epic Global Frequency has everything: emotionally charging drama, incredible action, mystery, engaging character development  and a bone chilling plotline. The series is just as great as Planetary - another creation of Ellis. The novel already has an army of fans behind it, and for good reason. Global Frequency, despite its popularity is one of the most underrated comic works of the 21st century. THe novel follows the operations of an intelligence agency that counters that governements and protects the people its secret projects. 
+The Sci-fi epic Global Frequency has everything: emotionally charging drama, incredible action, mystery, engaging character development  and a bone chilling plotline. The series is just as great as Planetary - another creation of Ellis. The novel already has an army of fans behind it, and for good reason. The premise of the novel is as appealing as it gets. THe novel follows the operations of an intelligence agency that counters that governements and protects the people from the governments' secret projects. 
 
-So far there have been two attempts at adapting the novel into a tv series once by Warner Bros and the second time by Fox. However, both times the project was dropped due to problems with the script. The sci-fi series of 12 issues has a near perfect plot with tons of interesting subplots involving fights with alien and governments and the use of futuristic technology making it an ideal contender for the development of a netflix show. 
+<!-- Global Frequency, despite its popularity is one of the most underrated comic works of the 21st century. -->
+
+So far there have been two attempts at adapting the novel into a tv series once by Warner Bros and the second time by Fox. However, both times the project was dropped due to problems with the script. This sci-fi series of 12 issues has a near perfect plot with tons of interesting subplots involving some of the most intriguing motifs like fights with alien, corrupt governments and use of futuristic technology making it an ideal contender for the development of a netflix show or a multiple part movie. 
 
 
 ## 8. Not All Robots - Mark Russell
 
 ![graphic](/img/06/notallrobotsnoir.png "novel") 
 
-In 2021 Mark Russell delivered a fascinating science fiction satirical/social commentary in the form of the novel Not All Robots. 
- The central premise of Not All Robots is that every human family is completely reliant on a robot assigned to them. The novel follows Walters family whose Robot ominously spends his free time in the garage working on machines which they are sure is designed to kill them in.
+In 2021 Mark Russell delivered a fascinating science fiction satirical social commentary in the form of the novel Not All Robots. The central premise of Not All Robots is that every human family is completely reliant on a robot assigned to them to earn their wages. The novel follows Walter family who suspect that their robot is building machines to kill them like many other robots in other families have tried to. Are these robots faulty or are they just unhappy and unappreciated? Is there any hope left for the humans? The story has everything you'd want to see in a movie about robots.
 
- THough it shares some similarities to chatoic futiristic series like Love death and robots it deals with the idea of mulutula exisiteneco f machines ad himans in a much more funnier way. An animated series or a movie where sociological impact of AI is explored sounds like a project that the fans will definitely love.
+THough it shares some similarities to chatoic futiristic series like Love death and robots it deals with the idea of mutual existence of machines and humans with huge amounts of of dark and heavy humor. An animated series or a movie where sociological impact of AI is explored sounds like a great project for the current times where the evolution of Artificial Intelligence is rapidly gaining momentum and we are being rocketed towards a world where we coexist with robots.
+<!-- 
+In 2021 Mark Russell delivered a fascinating science fiction satirical social commentary in the form of the novel Not All Robots. The central premise of Not All Robots is that every human family is completely reliant on a robot assigned to them. The novel follows Walters family whose Robot ominously spends its free time in the garage working on machines which they are sure is designed to kill them in.
+
+THough it shares some similarities to chatoic futiristic series like Love death and robots it deals with the idea of mutual existence of machines and humans with a shade of dark humor. An animated series or a movie where sociological impact of AI is explored sounds like a project that the fans will definitely love. -->
 ## extremely relevant to current times A movie version of Noli Me Tangere would resonate strongly in today's world, where movements for social justice and decolonization continue to gain momentum.
 
 <!-- This novel, which is a satirical commentary on a dystopian society, has an extremely attractive story wherein the humans are co-existing with intelligent robots. -->
@@ -158,10 +179,10 @@ In 2021 Mark Russell delivered a fascinating science fiction satirical/social co
 
 ![graphic](/img/06/we3news.png "novel") 
 
-The name We3 might not sound all too familiar to general audiences, but the novel by Grant Morrison actually inspired several elements in the beloved Marvel film Guardians of the Galaxy Vol. 3. When looking at what makes a science fiction movie entertaining, three cybernetic animals who are created by the governmment and are trying to get home feels like a winning recipe. We3 also has the added inclusion of government conspiracy
+The name We3 might not sound all too familiar to general audiences, but the novel by Grant Morrison actually inspired several elements in the beloved Marvel film Guardians of the Galaxy Vol. 3. When looking at what makes a science fiction movie entertaining, three cybernetic animals that are created by the governmment and are trying to get home feels like a winning recipe. This critically acclaimed comic mini book series is both intellecutally and emotionally engaging and has perhaps one of the most tragic stories in all of comic book history.
 
 
-We3 also has the added inclusion of aliens, pirates and futuristic tech all of which result in horrific scenarios where someone's life is almost always in danger. Even though the challenge of adapting this novel can be a bit daunting and challenging but it would be tremendous accomplisment if done properly
+We3 also has the added inclusion of aliens, pirates and futuristic tech all of which result in horrific scenarios where someone's life is almost always in danger. Even though adapting this novel can be a bit daunting and challenging but it would be tremendous accomplisment if done while respecting the author's vision/properly. After all wouldn't you want to see how a dog, cat and rabbit suffering from human cruelty fight for their freedom?
 
 <!-- housue pets weaponized for lethal combat by the government - as they search for home and ward off the shadowy agency that created them feels like a winning recipe
 three house pets weaponized for lethal combat by the government - as they search for "home" and ward off the shadowy agency that created them -->
@@ -172,4 +193,6 @@ three house pets weaponized for lethal combat by the government - as they search
 
 The combination of science fiction and superheros is bound to be a winning one in the world of movies. The Coffin follows Dr. Ashtar Ahmad who is pursuing the dream of immortality by building a suit the can store the soul even after the physical body dies and the person can live on forever. However his research comes to an abrupt halt when a tycoon kidnaps his daugther and asks for doctor's suit as ransom. It's twisted, it's firghtening, it's darkly funny, it's everything you would expect from such a premise.
 
-On the one hand, thid could make for a gory flick. On the other hand it's definitely one of the most original approahces to superhero thriller story becaus even with a basic premise the execution is spectacular and will keep you on the edge of your seat. Wester's book may have been published in 2001, but there is still quite like it in the film industry 20 years later, and this has to be fixed.
+While the novel does have some of the mainstays of a classic sci-fi superhero or supervillian origin story Like Dr. Freeze, it definitely has one of the most original approaches to a thriller. The ardent fans of the novel will tell you that even the story is basic the execution is specatcular and the story will keep you on the edge of the seat as you follow Dr. Ashtar Ahman. Wester's book may have been published in 2001, but there is still nothing quite like it in the film industry 20 years later, and this needs to change by adapting this novel into an action packed and thrilling gory sci-fi flick.
+<!-- 
+On the one hand, this could make for a gory flick. On the other hand it's definitely one of the most original approahces to superhero thriller story because even with a basic premise the execution is spectacular and will keep you on the edge of your seat. Wester's book may have been published in 2001, but there is still nothing quite like it in the film industry 20 years later, and this needs to change. -->
