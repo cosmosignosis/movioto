@@ -2,7 +2,7 @@
 title = 'Popular terminologies that come from sci-fi movies and books' 
 description = "You'd be surprised to know how much of our lingo comes from sci-fi movies and books especially in the current times of rapid tech advancement"
 author = "By Nishant Surya"
-date = 2023-11-06T15:58:47+05:30
+date = 2023-12-05T15:58:47+05:30
 draft = false
 [cover]
     image = 'img/05/slangmainpage.png'

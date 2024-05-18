@@ -2,7 +2,7 @@
 title = 'Five modern day inventions that sci-fi movies predicted' 
 description = 'Does art really imitate life?' 
 author = "By Nishant Surya"
-date = 2023-11-06T15:58:47+05:30
+date = 2024-01-05T15:58:47+05:30
 draft = false
 [cover]
     image = 'img/04/2012.png'
