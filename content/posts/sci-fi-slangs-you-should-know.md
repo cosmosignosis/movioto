@@ -12,7 +12,7 @@ draft = false
 
 Sci-fi movies and books and games as an art form can have a deeper impact than most other genres. It forces us to think about various possibilities and uncertainities. It introduces us to numerous fictional ideas, inventions and concepts so much our conscience retains. As a result it's not surprising that a lot of these ideas end up permeating our common culture. Today we look at some such popular ideas that made their debut in a science fiction media and became so popular that after their breakthrough they became a part of our everyday life and public and/or scientific discourse:
 
-//enjoyed enough cultural capital that it became part of the cultural capital
+<!-- //enjoyed enough cultural capital that it became part of the cultural capital -->
 
 <!-- is known to deliver story and visuals that become part of our conscienec. However, they also deliver quotes and phrases the permeate the culture and end up getting used in everyday langauge and sometimes even by scientific community. For this article we will look at some of the most popular words and phrases that got their breakthrough in a sci-fi media whether its a book, movie or game and ever since their debut have been used rapidly and regularly in the public discourse. -->
 
@@ -20,7 +20,7 @@ Sci-fi movies and books and games as an art form can have a deeper impact than m
 
 ![Robotic](/img/05/RUR.png "Robots")  
 
-THe word Robot is just as iconic as the idea behind it. Google describes the word Robot as a "machine resembling a human being" - now we have seen crazy stuff in the world of science fiction but this is truly the pinnacle imitation of god'sown creation. Robot was introduced for the first time in the Karel Capek's 1920 science fiction play R.U.R (Rossum's Universal Robots). The word Robot itself is derived from the Czech root word "robota" which means forced labour or servitude. The play is set in a dystopian world where the robots are rapidly replacing humans in every aspect of the life. It's been more than a century since the premiere of the play and even now the the premise of the play is just as relevant as the word Robot. However, the meaning of the word Robot has evolved from what Karel intended it to be. In the play Robot refers to artifical biological organism and not automated machines.
+The word Robot is just as iconic as the idea behind it. Google describes the word Robot as a "machine resembling a human being" - now we have seen crazy stuff in the world of science fiction but this is truly the pinnacle imitation of god'sown creation. Robot was introduced for the first time in the Karel Capek's 1920 science fiction play R.U.R (Rossum's Universal Robots). The word Robot itself is derived from the Czech root word "robota" which means forced labour or servitude. The play is set in a dystopian world where the robots are rapidly replacing humans in every aspect of the life. It's been more than a century since the premiere of the play and even now the the premise of the play is just as relevant as the word Robot. However, the meaning of the word Robot has evolved from what Karel intended it to be. In the play Robot refers to artifical biological organism and not automated machines.
 
 
 
