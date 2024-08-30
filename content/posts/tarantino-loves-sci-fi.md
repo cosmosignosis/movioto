@@ -33,7 +33,7 @@ Every Tarantino movie is cherished, revered and deeply analuzed. That's partly b
 
 ## Everytime Tarantino came close to making a sci-fi movie
 
-1. 2007 - Westworld
+## 1. 2007 - Westworld
 
 ![manhattan](/img/03/westworld2.png "project") 
 
@@ -49,7 +49,7 @@ If you have seenm The biggest hurdle to creating a good sci-fi film is access to
 
 One of the biggest problems with making a good sci fi film is the lack of budget or no backing by a big studio however despite being a relatively nmew director and depsit his first movie having only modest success Quenting had the backing of a big stuidio in warner bros. But there are always two sides of a coin. With big studios you do get access to big budgets but you also have to deal with the creative inputs of non creative executives. This was probably the biggest reason why this project was dropped because as we learnt in the bruce lee controversy of Once upon a time in holllywood despite other peoples opinions Quentin doesn’t like to compromise on his vision. And that’s exactly why This project was never completed. The first problem that Tarantino had with this project was that he was unsatisfied with Schwarzenegger and the studio didn’t want to let him go. Secondly as we know from other Tarantino movies that his movies have a dark tone but the studio was once again against this idea and that’s why he had to walk away from this project. -->
 
-2. 2014 - Sci Fi Horror
+## 2. 2014 - Sci Fi Horror
 
 ![manhattan](/img/03/myers3.png "project") 
 
@@ -68,7 +68,7 @@ However, if you find this disappointing wait till you find out about the next sc
 
 
 
-3. 2017 - Star Trek
+## 3. 2017 - Star Trek
 
 ![manhattan](/img/03/quentintrek.png "project") 
 
@@ -104,12 +104,12 @@ So is it time to shoot and bury the dream of Tarantino ever directing a Sci-fi F
 
 However even though a sci-fil by Tarantino seems like a distant dream now, if he does ever decide to make one,  the fans would love to see his take on a sci-fi project especially since he has always had a unique(one of the most unique) perspective in filmmaking.
 
-## Why it's unlikely Tarantino will make a sci-fi movie ?
+<!-- ## Why it's unlikely Tarantino will make a sci-fi movie ?
 
 ![manhattan](/img/03/iconicshots.png "project") 
 
 is it/it's time to shoot and bury the dream of Quentin Tarantino ever directing a sci-fi film.
-Tarantino's tenth and final movie "The Movie Critic" has supposedly already entered early stages of production. So its certain as of now that he won't be making a sci-fi film as his final projet. That is, unless "The Movie Critic" project gets scrapped and Tarantino starts looking at other projects for his 10th film which is quite possible knowing his history of numerous unrealized projects. Or maybe Tarantino ditches his plans of only making 10 movies but since he has been talking about this stipulation throughout his career that is less than likely.
+Tarantino's tenth and final movie "The Movie Critic" has supposedly already entered early stages of production. So its certain as of now that he won't be making a sci-fi film as his final projet. That is, unless "The Movie Critic" project gets scrapped and Tarantino starts looking at other projects for his 10th film which is quite possible knowing his history of numerous unrealized projects. Or maybe Tarantino ditches his plans of only making 10 movies but since he has been talking about this stipulation throughout his career that is less than likely. -->
 
 <!-- o there is little to no change we will get a sci-fi movie from Tarantino unless he drops his plan of making only 10 movies and announces a 11th
 As Tarantino comes close to reaching his goal of making only 10 movies and having already announced the title of his last project “the movie critic” its highly unlikely a full on sci-fi Tarantino movie will happen now. SO for now its unlikely Quentin Tarantino will make a sci fi movie. -->
