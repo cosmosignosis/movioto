@@ -16,7 +16,7 @@ The show definitely has some of the most intriguing sci-fi tech that scientists 
 
 ## 1. Scouters
 
-![dragonball](/img/07/over9000 "z") 
+![dragonball](/img/07/over9000.png "z") 
 
 
 Even if you are not a dragonball z fan you have probably seen the It's over 9000 meme.
