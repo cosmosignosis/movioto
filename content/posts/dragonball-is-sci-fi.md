@@ -16,11 +16,11 @@ The show definitely has some of the most intriguing sci-fi tech that scientists 
 
 ## 1. Scouters
 
-![dragonball](/img/07/manhattanprint.png "z") 
+![dragonball](/img/07/over9000 "z") 
 
 
 Even if you are not a dragonball z fan you have probably seen the It's over 9000 meme.
-THe first time we see scouters is when Goku;s brother Radits comes to Earth. This truly was a game changer both for the characters in the anime but also for the fans. This marked the beginning of the saiyan saga and in a way deparature from the regular story telling that existed before. THis was the first time the show showed a serious villain as opposed to the villains of the dragonball who were a bit on the goofier side. The Saiyans and in fact the entire frieza army used scouters to measure power levels of the fighthers. A device in the real world would really be awesome albeit not for measuring pwoerlevels but other things like intelligence. THe design of the scouters is also perfect for virtual reality headset.
+The first time we see scouters is when Goku;s brother Radits comes to Earth. This truly was a game changer both for the characters in the anime but also for the fans. This marked the beginning of the saiyan saga and in a way deparature from the regular story telling that existed before. THis was the first time the show showed a serious villain as opposed to the villains of the dragonball who were a bit on the goofier side. The Saiyans and in fact the entire frieza army used scouters to measure power levels of the fighthers. A device in the real world would really be awesome albeit not for measuring pwoerlevels but other things like intelligence. THe design of the scouters is also perfect for virtual reality headset.
 
 ## 2. Healing Chamber
 
