@@ -12,12 +12,24 @@ draft = false
 +++
 <!-- influenced their thought process influenced their thought process and perspective towards life. There is a certain charm/appel of mind bending stories set in dystopian cities/environments full of futuristic tech that even the most influential people of world can't deny. From business magnates to scientist to pop culture icons the biggest celebrities of the world have often publicly talked about their favorite sci-fi movies and how it impacted them. For some their favorite sci-fi movie motivated their career choices while for others it inspired their creative choices like David Bowie's Space Oddity is influenced by Stanley Kubrick's Space Odyssey. But for the vast majority of these sci-fi superfans, the genre is so attractive because its thought provoking nature forces them to look at society and humanity and technology from a new perspective - which is often a good trait to have (in order to be successful in life)/(to have the level of success that they have had).-->
 
+
+
 There is a certain appeal of mind bending stories set in dystopian cities and environments full of futuristic tech that even the most influential people of world can't deny. From business magnates to scientist to pop culture icons the biggest celebrities of the world have often publicly talked about their favorite sci-fi movies and how it impacted them. For some their favorite sci-fi movie motivated their career choices while for others it inspired their creative choices like David Bowie's Space Oddity is influenced by Stanley Kubrick's Space Odyssey. But for the vast majority of these sci-fi superfans, the genre is so attractive because its thought provoking nature forces them to look at society and humanity and technology from a new perspective - which is often a good trait to have (in order to be successful in life)/(to have the level of success that they have had).
 
 As we go through the list you'll notice that more than any other directors Kubrick and Nolan have a huge fanbase even among the celebrities. Additionally celebs pick their favorite movies from all eras. In fact one of the picks is black and white movie from the 1961 so clearly there is no recency bias at play here.
 
 <!-- As we go through the list you'll notice that some movies are quoted as favorite by multiple celebrities. Clearly some movies have been more impactful and influential than th others. Their are favorites that go as far back as 1961 and as recent as 2022.  -->
 
+```python
+def greet(name):
+    """Function to greet a person"""
+    message = f"Hello, {name}!"
+    return message
+
+# Test the function
+if __name__ == "__main__":
+    print(greet("World"))
+```
 
 <!-- 
 You'll notice a pattern in the choices made by these celebrities. Most of them seem to be attracted towards the work of three directors namely, Stanley Kubrick, RIdley Scott, Christopher Nolan. The earliest favorite is a black and white film from as far back as 1961 and the most recent is a series from 2022 -->
@@ -180,7 +192,20 @@ The now semi retired youtuber Pewdiepie was at one point the most subscribed you
 Although Pewdiepie is not the most subscribed youtuber  and is also semi retired he he is still one of the most popular content creators. So fans are always asking about his choices and opinions. In a qna video from 2013 when a fan asked what was Pewdiepie's favorite movie growing up, he answered A Clockwork Orange.
 
 
-Pewdiepie is known for being the most subscribed youtuber till 2019 and therefore one of the most celebrated online personalities. In a qna video on his channel when a fan asked his favorite movie from chicldhood he Picked "A clockwork Orange" and then sarcistically added "it's great for kids".(link: https://www.youtube.com/watch?v=Kj-68mx4We4). ALthought not for kids It definitely is agreat choice. This Stanley Kubrick classic is set in a dystopian city governed by a totalitarian super state. The movie follows the journey of a young guy who is a degenerate but also a victim of some dark and shady government practices -->
+Pewdiepie is known for being the most subscribed youtuber till 2019 and therefore one of the most celebrated online personalities. In a qna video on his channel when a fan asked his favorite movie from chicldhood he Picked "A clockwork Orange" and then sarcistically added "it's great for kids".(link: https://www.youtube.com/watch?v=Kj-68mx4We4). ALthought not for kids It definitely is agreat choice. This Stanley Kubrick classic is set in a dystopian city governed by a totalitarian super state. The movie follows the journey of a young guy who is a degenerate but also a victim of some dark and shady government practices --># Example Python Code
+
+Here's a simple Python function that greets a person:
+
+```python
+def greet(name):
+    """Function to greet a person"""
+    message = f"Hello, {name}!"
+    return message
+
+# Test the function
+if __name__ == "__main__":
+    print(greet("World"))
+```
 
 <!-- Pewdiepie is one of the biggest youtubers in the world and at one point was the biggest youtube. He has more than 4500 videos online and inevitably over the years has shared his likes and dislikes on several topics. In a qna session from 2013 when a fan asked about his favorite movie from his childhood. he Picked "A clockwork Orange" and then sarcastically added "it's great for kids". It definitely is agreat choice but it certainly is not for kids. This Stanley Kubrick classic is set in a dystopian city governed by a totalitarian super state. The movie follows the journey of a young guy who is a degenerate but also a victim of the dark practices of the government. -->
 
@@ -205,6 +230,11 @@ Dune star Zendaya tweeted in 2015 praising the sci-fi classic Interstellar calli
 <!-- Pewdiepie is one of the biggest youtubers in the world andat one point was the biggest youtuber in the world. In many of his videos on his channel he has said that a clockwork orange by Stanley Kubrick was his favourite film. The movie is also referenced in one and his love for the movie could be seen from the multiple posters he owns which could be seen in the video. The movie is about a dystopian city governed by a totalitarian super state where the story follows the journey of a young guy who is a degenerate but also a victim of the dark practices of the government. -->
 
 
+# Example Python Code
+
+Here's a simple Python function that greets a person:
+
+```python
 def greet(name):
     """Function to greet a person"""
     message = f"Hello, {name}!"
@@ -213,3 +243,4 @@ def greet(name):
 # Test the function
 if __name__ == "__main__":
     print(greet("World"))
+
