@@ -10,7 +10,7 @@ draft = false
     # caption = 'Favorite movies of celebrities'
 +++
 
-# Gout
+<!-- # Gout -->
 
 ## What is Gout?
 
