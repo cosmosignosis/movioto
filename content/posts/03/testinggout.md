@@ -1,4 +1,15 @@
-```markdown
++++
+title = "Gout"
+# Some of the most beloved celebrities from all over the world have weighed in on their favourite movies over the years choosing from a range of sci fi films.' 
+author = "By Nishant Surya"
+date = 2024-02-05T15:58:47+05:30
+draft = false
+# [cover]
+    # image = 'img/01/celeb-cover.png'
+    # alt = 'Favorite sci-fi movies of celebrities'
+    # caption = 'Favorite movies of celebrities'
++++
+
 # Gout
 
 ## What is gout?
@@ -225,5 +236,5 @@ No, Gout cannot be treated permanently; however, associated pain and other sympt
 5. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5638318/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5638318/)
 6. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5149577/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5149577/)
 7. [https://emedicine.medscape.com/article/2088516-overview#:~:text=Serum%20urate%20levels%20can%20vary,or%200.16%2D0.43%20mmol%2FL](https://emedicine.medscape.com/article/2088516-overview#:~:text=Serum%20urate%20levels%20can%20vary,or%200.16%2D0.43%20mmol%2FL)
-```
+
 
