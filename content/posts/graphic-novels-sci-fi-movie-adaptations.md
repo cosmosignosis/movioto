@@ -13,9 +13,12 @@ draft = false
 <!-- # Grahic novels have often proved to be an excellent resource for creating sci-fi movies. Here are some that deserved to be adapted but have not been adapted so far # -->
 
 
+<!-- THE GOOD BLOCK
 Good literature inspires good cinema! That's true for many genres but moreso for the sciene fiction. Many great sci-fi movies like The Martian or Arrival could trace their success back to great books. It's also a safe bet for studios since they are investing in stories that already have a eager fanbase. However, adapting science fiction literature to the big screen can be one of the most dauting tasks a director can take up. They need to meet the expectations of the fans, find a way to show on screen what was printed in pages, keep the story succinct, respet authors' world building and characters,  the list goes on and on. But the recent success of adaptations has proved sci-fi fans love a transition from paper to the silver screen if the execution is right and the source material is respected. But why adapt? Well to put it bluntly while reading is a good habit its not a practical option for everyone and a vast majority of people would prefer watching a movie to reading a book.
 
 While there are many different kinds of literature to choose from, graphic novels are often overlooked despite the success of movies like V for Vendetta and Watchmen. However, the serious fans will tell you there is a huge untapped potential if you know your graphic novels well enough. There is an ocean of graphic novels across genres that have not yet been adapted. With so many great options available directors should have not shortage of options when looking for source materials. With that in mind, here is my pick of 10 graphic novels that should be made into a movie.
+
+-THE GOOD BLOCK -->
 <!-- 
 Good literature inspires good cinema! That's true for most genre but especially for science fiction. A lot of the great science ficiton movies could trace back their success to great books like The Martian or Arrival. It's also a safe bet for studio since they are investing in stories that have already been tried and tested in the market. However, adapting science fiction literature to the big screen can be one of the most dauting tasks a director can take up. They need to meet the expectations of the fans, find a way to show on screen what was printed in pages, keep the story succinct the list goes on and on. But the success of such movies likes V for Vendetta and watchmen has proved sci-fi fans love a transition from paper to the silver screen if the execution is right and the source material is respected. But why adapt? Well to put it bluntly while reading is a good habit its not a practical option for everyone and a vast majority of people would prefer watching a movie to reading a book.
 
@@ -65,20 +68,22 @@ As such there are plenty more sci-fi graphic novels that need to make a step int
 
 ## 1. Tokyo Ghost By Rick Remender
 -->
-
+<!-- THE GOOD BLOCK
 ## 1. The Manhattan Projects by Jonathan Hickman and Nick Pitarra
 
 ![manhattan](/img/06/manhattanprint.png "project") 
+-THE GOOD BLOCK -->
 <!-- persistent satire(dismisses historicity of the series), no historical accuracy, alternate history, only partial history, sudden reveals undercuts realism(we see materials being gathered from pan-dimensional space, mythological artifacts from discarded space, artificial intelligence, and the deconstruction of an alien spaceship.), humor, absurdist, innovative sentient origami, intricate captivating ideas(launches multiple ideas at the audience), Oppenheimer's multiple personalities and a locked up einstein,..Moreover, they’re seeds for the rest of the series; the outward appearance of the Project(s) is for the Earth-bound wartime conflicts, but their real interest lies beyond our atmosphere. visuals which promise an even crazier, psychedelic future for the series. ambitious scientists, casualties in the wake of pursuit of scientific advancements by these scientists, morality of the scientists underdeveloped(bad) , very few female characters in the first volume(although that is likely by design; It’s not hard to imagine, given the attitudes of the characters and the time period, that female voices would likely be ignored.) Overall, with this first volume, “The Manhattan Projects” is set up as a satirical reimagining of the real Manhattan Project, that has established a multitude of intriguing characters and concepts to be explored over the next five volumes -->
-
+<!-- THE GOOD BLOCK
 WIth the massive success of Oppenheimer there has never been a better time to adapt The Manhattan Projects by Jonathan Hickman and Nick Pitarra. The biggest selling point for this story is the way it combines history with fiction. however, the story's historical accuracy ends there after that its al fiction. THe premise of the novel is that the project was just a front for numerus secret government projects run by morally challenged scientists. Some of the famous scientists you'd find in it are Robert Oppenheimer who suffers from multiple personalities disorder and a locked up Einstein. The story has everything that  you'd want in a hit movies' screenplay. It is full of humor, satire, absurd innovations like a scientist who is just a radiological mass, intriguiing characters, pan-dimensional space, mythological artifacts from discarded space, artificial intelligence, and the deconstruction of an alien spaceship intricate and captivating plot points which are explored over 6 volumes. In the right hands this could even lead to a franchise. We know how Quentin loves making movies with alterenate history and this could be the perfect project for him if he still wants to make a sci-fi movie.
+-THE GOOD BLOCK -->
 <!-- The novel follows the world war II scientists who were associted with the Manhattan project. morally challenged scientist -->
 
 
 
-
+<!-- THE GOOD BLOCK
 Hickman's novel is a retelling of an important part of american history. On the big screen would be a dark bitter humorous movie that shows a morally starved world and throws and appalling light on science and government without conscience (or with a desecrated version of conscience) but at the same time withyout being too serious - maybe it's the perfect sci-fi project for Quentin Tarantino
-
+-THE GOOD BLOCK -->
 <!-- Very few novels combine Historical truth with fiction like The Manhattan Project.   Jonathan Hickman's The Manhattan
 This comic, which combines historical settings and events with fictionalized characters with a heavy dose of science fiction and a bit of horror, holds a rather unique selling point. THe Manhattan Projects follows the events around the Manhattan Project from world war two but its an alternate reality where the creation of atom bomb is shown as just a front for other unusual projects. In this novel's alternative american reality Robert Oppenheimer suffers from multiple personalities. The plot deals with everything from nuclear bombs to the Holocaust to artificial intelligence. It is a fantastic blend of historical truth and insane fiction -->
 
@@ -88,7 +93,7 @@ This comic, which combines historical settings and events with fictionalized cha
 
 <!-- Cleeton's novel is an intimate retelling of Cuban history — the big screen could do with more diverse stories. -->
 
-
+<!-- THE GOOD BLOCK
 ## 2. On a Sunbeam (Tillie Walden)
 
 ![graphic](/img/06/sunbeam.png "novel") 
@@ -97,12 +102,12 @@ Putting our Government's dark histories aside for a moment,
 Putting dark history aside for a moment, take a look at a strange tale that is On a sunbeam. On a sunbeam can't truly be put into any one genre. It has elements of both science fiction and romance. The story follows Mia who works in a maintenance spaceship that rebuilds broken structures. Howver her sole purpose for joining the ship is not to rebuild structures but rebuild an old relationship by reconnecting with her lost love. The story takes you on an emotional rollercosaster that will make you laugh and cry sometimes both at the same time. The second half of the novel however is more action loaded and less emotionally charged.
 
 The writer's imaginative storytelling combined with the desperation and hope that accompany the characters make On a Sunbeam a worthy candidate for a memorable romantic sci-fi film with some good action sequences as well - this could end up being the movie that has everything!
-
+-THE GOOD BLOCK -->
 <!-- Its been sometime s
 
 
 Walden's webcomic with its explosive ending is long overdue for a staggering thriller of a  movie -->
-
+<!-- THE GOOD BLOCK
 ## 3. Sentient (Jeff Lemire)
 
 ![graphic](/img/06/sentient.png "novel") 
@@ -110,10 +115,10 @@ Walden's webcomic with its explosive ending is long overdue for a staggering thr
 Imagine a group of children stuck in a colony ship in deep space forced to survive on their own after all the adults on the ship get murdered. THe only help they have is the guidance of the onboard AI VALARIE. While survival is the strongest instinct in humans distrust towards AI is the most common sentiment. So the idea that these children now have no other option but to trust AI for survival is an extremely interesting premise.
 
 That's roughly the setup of Sentient by Jeff Lemire. It features plenty of science fiction tropes such as an space pirate invasion, kids in space, AI learning to be a human and a colony ship. A young adult science fiction like Sentient which is a bit soft on science but deals with dystopia, identity and spaceship drama is rare these days so this is definitely a unique novel. Lemire's novel would be absolutely perfect for horror space opera movie or even a miniseries, and someone needs to tip off the studio executives.
-
+-THE GOOD BLOCK -->
 <!-- layer of mystery that unfolds into something much more important and impactful than any of the characters involved anticipated.  -->
 
-
+<!-- THE GOOD BLOCK
 
 ## 4. Worlds of Aldebaran  by Luiz Eduardo de Oliveira
 
@@ -121,44 +126,44 @@ That's roughly the setup of Sentient by Jeff Lemire. It features plenty of scien
 
 Luiz Eduardo de Oliveira's Worlds of Aldebaran may sound like science-fiction roleplaying game, but its actually the name of his book that was first released in 1994. The simple but potent idea of humans trying to capture distant planet when Earth becomes inhabitable due to global warming and religious wars would capture the imagination of any sci-fi fan. Even though the plot sounds like something Elon Musk would talk about (in one of his seminas) it is definitely a great place to start a science fiction story.
 
-Though it shares some similarities to the beloved space adventure star trek, it also leans into many of the less popular sci-fi mainstays like corrupt church, body horror and suicide. The novels main focus is colonists dealing with planet level issues that arise due to human error, however the novel does have a tragic tone when it deals with personal problems. Oliveira's book with it space western feel is long overdue for staggering and thrilling series.
+Though it shares some similarities to the beloved space adventure star trek, it also leans into many of the less popular sci-fi mainstays like corrupt church, body horror and suicide. The novels main focus is colonists dealing with planet level issues that arise due to human error, however the novel does have a tragic tone when it deals with personal problems. Oliveira's book with it space western feel is long overdue for staggering and thrilling series. -->
 
-## 5. The Incal By Alejandro Jodorowsky
+<!-- ## 5. The Incal By Alejandro Jodorowsky
 
 ![graphic](/img/06/incalnoir.png "novel") 
 
 In 1980 Alejando Jordowsky creating a fascinating science fiction tale called the Incal which would later be seen as one of the most legendary French-Belgian Comic.
 If you have seen the documentary Jodorowsky's Dune(2013) then you have probably heard about it. Jordowsky's motivation behind this comic is just as notoriously famous as the comic itself.  He wanted to adapt Dune for the big screen but he ended up changing the story too much and the screenplay ended up being 14 hour long. So naturally he couldn't get the budget for it but he did convert it into a graphic novel of its own with the help of French artist Jean Giraud or Mœbius.
 
-This beautiful piece of graphic literature revolves around John Difool, a low class detective in a degenerate dystopian world, who finds his life turned upside down when he discovers an ancient, mystical artifact called "The Incal". THe character and the main story line is definitely something that would attract even the sci-fi fans who aren't aware of the novel itself. Moreover, tHe artwork itself, if translated properly, could lead to visually stunning movie or a series.
+This beautiful piece of graphic literature revolves around John Difool, a low class detective in a degenerate dystopian world, who finds his life turned upside down when he discovers an ancient, mystical artifact called "The Incal". THe character and the main story line is definitely something that would attract even the sci-fi fans who aren't aware of the novel itself. Moreover, tHe artwork itself, if translated properly, could lead to visually stunning movie or a series. -->
 
 
-
+<!-- 
 ## 6. Joe Haldeman's The Forever War
 
 ![graphic](/img/06/foreverwarnoir.png "novel") 
-
-
-As far as filmable and adaptable premises it go it doesn't get any better than this novel. The 
-The premise alone of this series should warrant an adaptation, although it's definitely not for the faint of heart at all because to some extent it shows the reality of war. Haldmen tells the story about human soldiers fighting in a interstellar war with a hostlie alien enemy civilization the Taurans. In many ways the Forever war is the pioneer of the sci-fi military genre along with Heinlein’s Starship Troopers.’ However once you read it you will have an entirely different experience than Startship troopers or even Man's war by Scalzi. You follow the story through the eyes of the main protagonist William Mandela who is just an ordinary person studying physics at a university but is pulled into the war to contribute. Even though you may find several aspects of worldbuilding to be a bit unnerving like the views on homosexuality the novel is definitely a masterpiece and deserving of an adaptation.
+ -->
 
 <!-- As far as filmable and adaptable premises it go it doesn't get any better than this novel. The 
+The premise alone of this series should warrant an adaptation, although it's definitely not for the faint of heart at all because to some extent it shows the reality of war. Haldmen tells the story about human soldiers fighting in a interstellar war with a hostlie alien enemy civilization the Taurans. In many ways the Forever war is the pioneer of the sci-fi military genre along with Heinlein’s Starship Troopers.’ However once you read it you will have an entirely different experience than Startship troopers or even Man's war by Scalzi. You follow the story through the eyes of the main protagonist William Mandela who is just an ordinary person studying physics at a university but is pulled into the war to contribute. Even though you may find several aspects of worldbuilding to be a bit unnerving like the views on homosexuality the novel is definitely a masterpiece and deserving of an adaptation.
+-THE GOOD BLOCK -->
+<!-- As far as filmable and adaptable premises it go it doesn't get any better than this novel. The 
 The premise alone of this series should warrant an adaptation, although it's definitely not for the faint of heart at all because to some extent it shows the reality of war. Haldmen tells the story about human soldiers fighting in a interstellar war with a hostlie alien enemy civilization the Taurans. In many ways the Forever war is the pioneer of the sci-fi military genre along with Heinlein’s Starship Troopers.’ However once you read it you will have an entirely different experience than Startship troopers or even Man's war by Scalzi. You follow the story through the eyes of the main protagonist William Mandela who is just an ordinary person studying physics at a university but is pulled into the war to contribute. Even though you may find several plot points to be a bit unnerving like the views on homosexuality the novel is definitely a masterpiece and worth a read. -->
+<!-- THE GOOD BLOCK
+THe rights to adapt The Forever War has moved through various hands in hollywood since 1988 with Ridley Scott being the one to hold the right at one point. In 2015 Warner Bros acqiored the right to adapt the film and have started the development of the script however so far nothing has come to fruitiion. It's not surprising why so many big names want to adapt this film because if done right it surely has the potential to be a genre defining project. -->
 
-THe rights to adapt The Forever War has moved through various hands in hollywood since 1988 with Ridley Scott being the one to hold the right at one point. In 2015 Warner Bros acqiored the right to adapt the film and have started the development of the script however so far nothing has come to fruitiion. It's not surprising why so many big names want to adapt this film because if done right it surely has the potential to be a genre defining project.
 
-
-## 7. Global Frequency  Warren Ellis
+<!-- ## 7. Global Frequency  Warren Ellis
 
 ![graphic](/img/06/globalfreqnoir.png "novel") 
 
 The Sci-fi epic Global Frequency has everything: emotionally charging drama, incredible action, mystery, engaging character development  and a bone chilling plotline. The series is just as great as Planetary - another creation of Ellis. The novel already has an army of fans behind it, and for good reason. The premise of the novel is as appealing as it gets. THe novel follows the operations of an intelligence agency that counters that governements and protects the people from the governments' secret projects. 
-
+-THE GOOD BLOCK
 <!-- Global Frequency, despite its popularity is one of the most underrated comic works of the 21st century. -->
 
-So far there have been two attempts at adapting the novel into a tv series once by Warner Bros and the second time by Fox. However, both times the project was dropped due to problems with the script. This sci-fi series of 12 issues has a near perfect plot with tons of interesting subplots involving some of the most intriguing motifs like fights with alien, corrupt governments and use of futuristic technology making it an ideal contender for the development of a netflix show or a multiple part movie. 
+<!-- So far there have been two attempts at adapting the novel into a tv series once by Warner Bros and the second time by Fox. However, both times the project was dropped due to problems with the script. This sci-fi series of 12 issues has a near perfect plot with tons of interesting subplots involving some of the most intriguing motifs like fights with alien, corrupt governments and use of futuristic technology making it an ideal contender for the development of a netflix show or a multiple part movie.  --> -->
 
-
+<!-- THE GOOD BLOCK
 ## 8. Not All Robots - Mark Russell
 
 ![graphic](/img/06/notallrobotsnoir.png "novel") 
@@ -166,6 +171,7 @@ So far there have been two attempts at adapting the novel into a tv series once 
 In 2021 Mark Russell delivered a fascinating science fiction satirical social commentary in the form of the novel Not All Robots. The central premise of Not All Robots is that every human family is completely reliant on a robot assigned to them to earn their wages. The novel follows Walter family who suspect that their robot is building machines to kill them like many other robots in other families have tried to. Are these robots faulty or are they just unhappy and unappreciated? Is there any hope left for the humans? The story has everything you'd want to see in a movie about robots.
 
 Though it shares some similarities to chatoic futiristic series like Love death and robots it deals with the idea of mutual existence of machines and humans with huge amounts of of dark and heavy humor. An animated series or a movie where sociological impact of AI is explored sounds like a great project for the current times where the evolution of Artificial Intelligence is rapidly gaining momentum and we are being rocketed towards a world where we coexist with robots.
+-THE GOOD BLOCK -->
 <!-- 
 In 2021 Mark Russell delivered a fascinating science fiction satirical social commentary in the form of the novel Not All Robots. The central premise of Not All Robots is that every human family is completely reliant on a robot assigned to them. The novel follows Walters family whose Robot ominously spends its free time in the garage working on machines which they are sure is designed to kill them in.
 
@@ -174,7 +180,7 @@ THough it shares some similarities to chatoic futiristic series like Love death 
 
 <!-- This novel, which is a satirical commentary on a dystopian society, has an extremely attractive story wherein the humans are co-existing with intelligent robots. -->
 
-
+<!-- THE GOOD BLOCK
 ## 9. We3 by writer Grant Morrison
 
 ![graphic](/img/06/we3news.png "novel") 
@@ -183,10 +189,10 @@ The name We3 might not sound all too familiar to general audiences, but the nove
 
 
 We3 also has the added inclusion of aliens, pirates and futuristic tech all of which result in horrific scenarios where someone's life is almost always in danger. Even though adapting this novel can be a bit daunting and challenging but it would be tremendous accomplisment if done while respecting the author's vision/properly. After all wouldn't you want to see how a dog, cat and rabbit suffering from human cruelty fight for their freedom?
-
+-THE GOOD BLOCK -->
 <!-- housue pets weaponized for lethal combat by the government - as they search for home and ward off the shadowy agency that created them feels like a winning recipe
 three house pets weaponized for lethal combat by the government - as they search for "home" and ward off the shadowy agency that created them -->
-
+<!-- THE GOOD BLOCK
 ## 10. The Coffin - Phil Hester
 
 ![graphic](/img/06/coffin.png "novel") 
@@ -194,5 +200,6 @@ three house pets weaponized for lethal combat by the government - as they search
 The combination of science fiction and superheros is bound to be a winning one in the world of movies. The Coffin follows Dr. Ashtar Ahmad who is pursuing the dream of immortality by building a suit the can store the soul even after the physical body dies and the person can live on forever. However his research comes to an abrupt halt when a tycoon kidnaps his daugther and asks for doctor's suit as ransom. It's twisted, it's firghtening, it's darkly funny, it's everything you would expect from such a premise.
 
 While the novel does have some of the mainstays of a classic sci-fi superhero or supervillian origin story Like Dr. Freeze, it definitely has one of the most original approaches to a thriller. The ardent fans of the novel will tell you that even the story is basic the execution is specatcular and the story will keep you on the edge of the seat as you follow Dr. Ashtar Ahman. Wester's book may have been published in 2001, but there is still nothing quite like it in the film industry 20 years later, and this needs to change by adapting this novel into an action packed and thrilling gory sci-fi flick.
+-THE GOOD BLOCK -->
 <!-- 
 On the one hand, this could make for a gory flick. On the other hand it's definitely one of the most original approahces to superhero thriller story because even with a basic premise the execution is spectacular and will keep you on the edge of your seat. Wester's book may have been published in 2001, but there is still nothing quite like it in the film industry 20 years later, and this needs to change. -->

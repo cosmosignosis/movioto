@@ -10,9 +10,9 @@ draft = false
     caption = 'Favorite movies of celebrities'
 +++
 
-
+THE GOOD BLOCK
 Every Tarantino movie is cherished, revered and deeply analuzed. That's partly because of his craftsmanship but also because of his self imposed limit - he will only make 10 films. Without question Tarantino is a legendary director but he is a cinephile first and foremost. His indiscriminate and eclectic love for all kinds of films from every genre is exactly what got him into filmmaking. That is probably why his discogrpahy touches almost every genre to varying degree. However despite being a huge sci-fi nerd, the Dark Star fan has yet to make a project in this genre. However, there were a few times when he came close to making one.
-
+-THE GOOD BLOCK
 <!-- Now that Tarantino has already completed 9 films a sciBut Fans would undoubtedly love Tarantino's take on a sci-fi project. Even though the idea of Tarantino making a science fiction seems like a far fetched reality(dream)/distant reality(dream), there were a few times he came close to making one. -->
 
  <!-- His love for all kinds of film from every genre is what got him into filmaking. -->
@@ -29,7 +29,7 @@ Every Tarantino movie is cherished, revered and deeply analuzed. That's partly b
 
 
 
-
+THE GOOD BLOCK
 
 ## Everytime Tarantino came close to making a sci-fi movie
 
@@ -39,7 +39,7 @@ Every Tarantino movie is cherished, revered and deeply analuzed. That's partly b
 
 Despite the failure of Death Proof, Warner Bros brought Tarantino onboard to remake Westworld starring Arnold Schwarzenegger as the lone gun slinger. However the movie was never made. 
 Usually sci-fi projects get cancelled because lack of budget or lack or good screenplay. However with Warner Bros backing the project budget was not going to be a problem and Tarantino would have ensured well written screenplay. However the project still got scrapped. Why? Well every coin has two sides. So while big studio do offer good budget they also can be overbearing/foreceful with their unsolicited creative opinions. And if you are a Tarantino fan you know he is somewhat allergic to other people forcing their creative choices on his visio. And that's exactly what went wrong with this project. First Tarantino was not happy with casting Arnold Schwarzenegger and wanted to replace him and second he wanted to make his movie a bit darker and not exactly kid friendly. But Warner Bros were opposed to both these ideas and so (much to the dismay of his fans) Tarantino had to walk away from the project.
-
+-THE GOOD BLOCK
 <!-- The biggest obstacle to creating a sci-fi film is the lack of budget. While that was not a problem with Warner Bros, working with Warner Bros created another problem - Executives forcing their inputs on directors. And this is exactly why this film never got made. Tarantino has gone on record several times stating that he doesn't like studio executives interfering with his creative process(insert jre podcast link). The first creative decision forced on Tarantino for this project was the inclusion of Arnold Scwarzenegger but Tarantino wanted to replace him. ANother creative choice forced upon him was to make the movie a bit lighter but as we know from his discography Tarantino loves making dark movies. At the much to the dismay of his fans Tarantino had to walk away from this project. -->
 
 <!-- 
@@ -48,12 +48,13 @@ If you have seenm The biggest hurdle to creating a good sci-fi film is access to
 1. 2. The first time Quentin Tarantino came close to making a science fiction film was right after the success of his first movie Death Proof. In 2007 Tarantino was brought onboard to direct the remake of Westworld with Arnold Scwarzenegger playing the role of the lone gun slinger. However the project was scrapped.
 
 One of the biggest problems with making a good sci fi film is the lack of budget or no backing by a big studio however despite being a relatively nmew director and depsit his first movie having only modest success Quenting had the backing of a big stuidio in warner bros. But there are always two sides of a coin. With big studios you do get access to big budgets but you also have to deal with the creative inputs of non creative executives. This was probably the biggest reason why this project was dropped because as we learnt in the bruce lee controversy of Once upon a time in holllywood despite other peoples opinions Quentin doesn’t like to compromise on his vision. And that’s exactly why This project was never completed. The first problem that Tarantino had with this project was that he was unsatisfied with Schwarzenegger and the studio didn’t want to let him go. Secondly as we know from other Tarantino movies that his movies have a dark tone but the studio was once again against this idea and that’s why he had to walk away from this project. -->
-
+THE GOOD BLOCK
 ## 2. 2014 - Sci Fi Horror
 
 ![manhattan](/img/03/myers3.png "project") 
 
 In 2014 San Diego Comic Con  Tarantino revealed that he is planning on making a sci-fi film that wouldn't be your typical lets go to space film. He said that he wants to stay away from the popular tropes and instead make a slasher sci-fi horror movie citing the movie "It Follows" as his main inspiration for this film. Fans were excited to see a sci-fi movie by Tarantino along the lines of movies like The thing, THe Halloween, Stalker and The Texas Chainsaw Massacre. However, after that announcement it seemed like the project was stuck in develoment hell because nothing else was announced and the media assumed that the project may have been dropped. But in 2019, Tarantino once again talked about it saying he might start working on the project once again. However he cancelled the movie yet again because he felt that his typical wordy writing style wouldn't fit (do justice to) the horror aspect of the film.
+-THE GOOD BLOCK
 <!-- 
 In 2014 San Diego Comic Con  Tarantino revealed that he is planning on making a sci-fi film that wouldn't be your typical lets go to space film. He said that he wants to stay away from the popular tropes and instead make a slasher sci-fi horror movie. He cited the movie "It Follows" as his main inspiration for this film. So the movie would have been something along the lines of The thing, THe Halloween, Stalker and The Texas Chainsaw Massacre. After that announcement it seemed like the project got stuck in develoment hell because nothing else was announced and the project seemed to have been dropped. But once again in 2019 he brought up that project and said he might revive it start working on it once again. However he cancelled the movie once again because he didn't like his typical wordy writing style for the horror aspect of the film. -->
 <!-- 
@@ -67,13 +68,13 @@ In the San Diego Comic Con Quentin Tarantino revealed that he was planning on ma
 However, if you find this disappointing wait till you find out about the next sci fi project he was going to work on. The pulp fiction director wanted to make a standalone Star Trek movie however he dropped this project because he didn’t want his last movie to be a franchise movie. -->
 
 
-
+THE GOOD BLOCK
 ## 3. 2017 - Star Trek
 
 ![manhattan](/img/03/quentintrek.png "project") 
 
 As sci-fi fans one can only dream of a Star Trek film directed by Quentin Tarantino. Well in 2017 the dream was about to come true. In 2017, Tarantino was in talks with Paramount pictures about making a a Rated R standalone Star Trek film similar along the lines of an episode from Star Trek : THe Original Series. Mark L Smith even began working on a screenplay where the story was supposed to revolve around Captian Kirk with inspiration from gangster films and the plot revolving around time travel. Tarantino was supposed to co direct the movie along with J.J. Abrams who in the past has directed and produced Star Trek reboot project. But then Tarantino got busy with his 9th film "Once Upon a Time in Hollywood" and never got around to reviewing Smith's script. By the end of 2019 he walked away from the project saying he didn't want his last film to be a franchise films and instead wanted to work on a small budget project. He confirmed that the movie might still be made he just won't be the one directing it.
-
+-THE GOOD BLOCK
 <!-- For the sci-fi fans and movie fans in general it doesn't get any better than a Star Trek film directed by Quentin Tarantino. In 2017, Tarantino was in talks with Paramount Pictures about making this dream a reality. Mark L Smith began working on the screenplay and Tarantino was suppose to co direct the movie with J.J.Abrams who has directed and produced Star Trek reboot projects. However, in May 2019 Tarantio told that because he was occupied with Once Upon a Time in Hollywood he had not beeen able to focus on Star Trek project and the script was still under development. Two months later he received the completed script and was supposed to add his notes to the script. He revealed that he wanted to make the film rated R. However by the end of 2019 Tarantino walked away from the project. His reasoning was that he didn't want to make a franchise film as his last film and instead wanted to work on a small budget film which is perhaps his comfort zone since most of his films don't have big budgets. Regardless of what prompted him to drop the project, he confirmed that the movie might still be made he just won't be the one directing it. Smith however did give a hint about what the movie was about. He shared the story would revolve around Captain Kirk and would have been inspired by gangster films and would have also involved time travel. It was supposed to be a standalone film similar to an episode of Star Trek: The Original Series. -->
 
 
@@ -95,7 +96,7 @@ What kind of sci-fi movie would he make?
 Perhaps he will make something closer to the type of sci fi movies he loves. Maybe a retro sci-fi horror slasher film. 
 Even though Tarantino has never made a sci -=fi movie he is a big fan of the genre and has often called John Carpenter’s Dark Star his favourite sci – fi movie and a masterpiece/ . So would he have made some thing similar to that
 -->
-
+THE GOOD BLOCK
 ## Why it's unlikely Tarantino will make a sci-fi movie ?
 
 ![manhattan](/img/03/trunky.png "project") 
@@ -103,7 +104,7 @@ Even though Tarantino has never made a sci -=fi movie he is a big fan of the gen
 So is it time to shoot and bury the dream of Tarantino ever directing a Sci-fi Film? Probably yes. Tarantino's tenth and final movie "The Movie Critic" has supposedly already entered early stages of production. So its certain as of now that he won't be making a sci-fi film as his final projet. That is, unless "The Movie Critic" project gets scrapped and Tarantino starts looking at other projects for his 10th film which is quite possible knowing his history of numerous unrealized projects. Or maybe Tarantino ditches his plans of only making 10 movies but since he has been talking about this stipulation throughout his career that is less than likely. 
 
 However even though a sci-fil by Tarantino seems like a distant dream now, if he does ever decide to make one,  the fans would love to see his take on a sci-fi project especially since he has always had a unique(one of the most unique) perspective in filmmaking.
-
+-THE GOOD BLOCK
 <!-- ## Why it's unlikely Tarantino will make a sci-fi movie ?
 
 ![manhattan](/img/03/iconicshots.png "project") 

@@ -9,7 +9,7 @@ draft = false
     alt = 'Ranking ghosbuster movies'
     caption = 'Ranking ghosbuster movies'
 +++
-
+THE GOOD BLOCK
 Dragon Ball is undeniably the most popular and impactful anime of all time. Created by AKira Toriyama, Dragon ball is often given the credit for making anime as an art form as popular globally as it is today. While by modern standards of anime Dragon Ball may be considered overly simplistic but believe it or not it has everything. For many it is a show about martial arts, for others its fantasy for others its all about unforgettable characters, some just love the power ups but a few of the fans also love the show for its sci-fi aspects. A battle between greatest warriors from different universes. Cmon it doesnt get anymore sci-fi than this.
 
 The show definitely has some of the most intriguing sci-fi tech that scientists in the real world need to develop. So here is a list about all such tech.
@@ -57,3 +57,5 @@ Senzu Beans - Biotech
 
 The magical Senzu beans are used for quick healing of the body despite damages and injuries by the Z fighters.
 Korin's Senzu beans are more magical agricultural products and not necessarily tech products. However, if they were to be developed in real life they could not be developed with traditional agriculture but biotech could certainly play a huge role in their development. If developed it would probably break all records in terms of popularity.
+
+-THE GOOD BLOCK
