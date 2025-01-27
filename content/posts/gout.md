@@ -179,3 +179,5 @@ Yes, you can prevent Gout with:
 Gout
 What is gout?
 Gout is a disease in which pain and inflammation occur in the joints because of a uric acid build-up. It is a symptom of arthritis in which you can experience severe pain, redness, tenderness, and swelling in the joints. It usually happens because the extra uric acid accumulates in the form of crystals in the joints. It is a prevalent disease that affects about 1-4% of the world population. While it can affect anyone, men are more likely to develop gout than women – about 3-6% of men are usually affected by gout, whereas only 1-2% of women develop its symptoms. Gout attacks are often sudden and start with the big toe giving you a burning sensation in your feet.
+
+Note: Do not avoid purine-rich foods completely; consume them only in moderation.
