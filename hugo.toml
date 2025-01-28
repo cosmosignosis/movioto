@@ -51,11 +51,11 @@ With a strong foundation in clinical applications and writing, I specialize in s
 #   url = "/archives/"
 #   weight = 30
 
-  [[menu.main]]
-  identifier = "About"
-  name = "About"
-  url = "/about/"
-  weight = 10
+ # [[menu.main]]
+  #identifier = "About"
+  #name = "About"
+  #url = "/about/"
+  #weight = 10
 
  #  [[menu.main]]
  # identifier = "Community"
