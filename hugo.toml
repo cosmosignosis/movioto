@@ -9,8 +9,8 @@ favicon = 'assets /favicon.ico'
     ShowPostNavLinks = true
     ShowShareButtons= true
     [params.homeInfoParams]
-        Title = "Your favorite Sci-Fi Film?"
-        Content = "Well, let's talk about it!!!"
+        Title = "Portfolio"
+        Content = "Medical Writing"
     
     
 [assets]
@@ -50,10 +50,10 @@ favicon = 'assets /favicon.ico'
   url = "/about/"
   weight = 10
 
-   [[menu.main]]
-  identifier = "Community"
-  name = "Community"
-  url = "/community/"
-  weight = 20
+ #  [[menu.main]]
+ # identifier = "Community"
+ # name = "Community"
+ # url = "/community/"
+ # weight = 20
 
 
