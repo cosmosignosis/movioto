@@ -1,6 +1,5 @@
 +++
 title = 'Spinal Surgery or Back Surgery' 
-description = 'Graphic novels are excellent source materials for sci-fi movies. Here are some that have been overlooked by movie makers and deserve to be adapted'
 author = "By Nishant Surya"
 date = 2024-05-05T15:58:47+05:30
 draft = false
