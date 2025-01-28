@@ -1,6 +1,5 @@
 +++
-title = '10 Sci-Fi Graphic novels that deserve a movie adaptation' 
-description = 'Graphic novels are excellent source materials for sci-fi movies. Here are some that have been overlooked by movie makers and deserve to be adapted'
+title = 'Osteoarthritis' 
 author = "By Nishant Surya"
 date = 2024-05-05T15:58:47+05:30
 draft = false
@@ -9,8 +8,6 @@ draft = false
   #  alt = 'Sci-fi novels make the best source material for movies'
    # caption = 'Sci-fi novels make the best source material for movies'
 +++
-
-# Osteoarthritis
 
 ## What is osteoarthritis?
 Osteoarthritis is a form of arthritis that causes loss of function in the joints of the body. It is a degenerative joint disease wherein the cartilage between the bones of a joint breaks down. You may also know it as wear and tear arthritis. In this disease, due to the deterioration of tendons and ligaments and damage to the cartilage, you may experience pain, swelling, immobility, and deformity of the joints. Generally, osteoarthritis (OA) can affect any joint, but more commonly, it affects the joints in:

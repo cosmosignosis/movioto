@@ -1,5 +1,5 @@
 +++
-title = '10 Sci-Fi Graphic novels that deserve a movie adaptation' 
+title = 'Spinal Tuberculosis(TB)' 
 description = 'Graphic novels are excellent source materials for sci-fi movies. Here are some that have been overlooked by movie makers and deserve to be adapted'
 author = "By Nishant Surya"
 date = 2024-05-05T15:58:47+05:30
@@ -9,7 +9,6 @@ draft = false
   #  alt = 'Sci-fi novels make the best source material for movies'
    # caption = 'Sci-fi novels make the best source material for movies'
 +++
-# Spinal TB
 
 ## What is Spinal TB?
 Spinal tuberculosis is a type of bone tuberculosis that affects the nerves and the nervous system. The bacteria *Mycobacterium* is the primary pathogen that causes this disease. The spine is the most common site of skeletal tuberculosis (disease involving the bones and the joints) – in about 1% of all tuberculosis cases, the spinal column is affected.

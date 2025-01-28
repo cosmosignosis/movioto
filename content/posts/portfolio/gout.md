@@ -1,6 +1,5 @@
 +++
-title = '10 Sci-Fi Graphic novels that deserve a movie adaptation' 
-description = 'Graphic novels are excellent source materials for sci-fi movies. Here are some that have been overlooked by movie makers and deserve to be adapted'
+title = 'Gout' 
 author = "By Nishant Surya"
 date = 2024-05-05T15:58:47+05:30
 draft = false
@@ -10,7 +9,6 @@ draft = false
    # caption = 'Sci-fi novels make the best source material for movies'
 +++
 
-# Gout
 
 ## What is gout??
 

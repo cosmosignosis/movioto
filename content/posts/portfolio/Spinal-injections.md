@@ -1,5 +1,5 @@
 +++
-title = '10 Sci-Fi Graphic novels that deserve a movie adaptation' 
+title = 'Spinal Injections' 
 description = 'Graphic novels are excellent source materials for sci-fi movies. Here are some that have been overlooked by movie makers and deserve to be adapted'
 author = "By Nishant Surya"
 date = 2024-05-05T15:58:47+05:30
@@ -9,8 +9,6 @@ draft = false
   #  alt = 'Sci-fi novels make the best source material for movies'
    # caption = 'Sci-fi novels make the best source material for movies'
 +++
-
-# Spinal Injections
 
 ## What are spinal injections?
 Spinal injections are injections given in various parts of the spinal column. Typically, spinal injections are part of a treatment plan.
