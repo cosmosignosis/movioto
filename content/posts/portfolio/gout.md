@@ -12,7 +12,7 @@ draft = false
 
 # Gout
 
-## What is gout?
+## What is gout??
 
 Gout is a disease in which pain and inflammation occur in the joints because of a uric acid build-up. It is a symptom of arthritis in which you can experience severe pain, redness, tenderness, and swelling in the joints.  
 It usually happens because the extra uric acid accumulates in the form of crystals in the joints. It is a prevalent disease that affects about 1-4% of the world population. While it can affect anyone, men are more likely to develop Gout than women – about 3-6% of men are usually affected by Gout, whereas only 1-2% of the women develop its symptoms.  
