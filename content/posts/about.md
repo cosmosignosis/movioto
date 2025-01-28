@@ -1,5 +1,0 @@
-Hi, I’m Nishant—a Computer Science graduate with a unique career in the life sciences and pharmaceutical industries. At TCS, I worked with clinical applications used in clinical trials like Medidata, JReview, and Oracle Clinical, ensuring software quality and creating user training resources to support clinical research professionals.
-
-My experience in the pharma domain sparked a passion for crafting content that bridges technology and healthcare. As a freelance writer, I’ve expanded my expertise to include technical documentation, user guides, and medical content, such as articles on treatments, tests, and health-related topics.
-
-With a strong foundation in clinical applications and writing, I specialize in simplifying complex concepts for healthcare, life sciences, and technology audiences.
