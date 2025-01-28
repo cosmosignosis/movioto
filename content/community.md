@@ -3,6 +3,7 @@ title = 'Community'
 layout = 'community'
 url = '/community/'
 summary = 'commuity'
+draft = true
 # [cover]
 #     image = 'img/community.png'
 #     alt = 'Join a sci fi community'

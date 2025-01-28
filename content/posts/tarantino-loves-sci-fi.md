@@ -3,7 +3,7 @@ title = 'What does Quentin tarantino think of the sci-fi genre'
 description = 'The GOAT director wants to make sci-fi movies.' 
 author = "By Nishant Surya"
 date = 2024-04-05T15:58:47+05:30
-draft = false
+draft = true
 [cover]
     image = 'img/03/quentin2.png'
     alt = 'Favorite movies of celebrities'
