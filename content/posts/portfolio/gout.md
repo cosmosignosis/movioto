@@ -10,8 +10,6 @@ draft = false
 +++
 
 
-# Gout
-
 ## What is Gout?
 
 Gout is a disease in which pain and inflammation occur in the joints because of a uric acid build-up. It is a symptom of arthritis in which you can experience severe pain, redness, tenderness, and swelling in the joints.
