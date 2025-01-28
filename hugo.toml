@@ -15,7 +15,10 @@ favicon = 'assets /favicon.ico'
 My experience in the pharma domain sparked a passion for crafting content that bridges technology and healthcare. As a freelance writer, I’ve expanded my expertise to include technical documentation, user guides, and medical content, such as articles on treatments, tests, and health-related topics.
 
 With a strong foundation in clinical applications and writing, I specialize in simplifying complex concepts for healthcare, life sciences, and technology audiences."""
-    
+
+    # Add disclaimer for footer
+    FooterDisclaimer = """The information provided on this website is intended for educational and informational purposes only. While the content has been sourced from reputable medical professionals and literature, it should not be considered as medical advice or a substitute for professional consultation. If you have specific health concerns or conditions, please consult a qualified healthcare provider. The content presented here is part of my portfolio and reflects work created by medical experts; it is not a personal endorsement or recommendation of any treatment or diagnosis. By accessing this information, you acknowledge that you understand the limitations of the content and agree to seek professional guidance for any health-related issues."""
+
     
 [assets]
     favicon16x16 = '/assets/favicon-16x16.png'
